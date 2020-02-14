@@ -8,7 +8,7 @@ UC-21 is under development at [AAAI-UC 2021](./2021.md)
 
 <!-- Markdown example [here](mdex.md) -->
 
-Undergraduate Consortium co-chairs:\
-Jim Boerkoel, Harvey Mudd College\
-Memo Ergezer, Wentworth Institute of Technology,\
+Undergraduate Consortium co-chairs:  
+Jim Boerkoel, Harvey Mudd College  
+Memo Ergezer, Wentworth Institute of Technology,  
 aaai20ucchairs@aaai.org
