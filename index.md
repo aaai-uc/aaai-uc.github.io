@@ -1,7 +1,7 @@
 # AAAI Undergraduate Consortium
 
 ## Updates
-- Check out the [forbes](https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/#587435127f2b) interview! 
+- Check out the Forbes article titled ["Why Diversity In AI Is So Important"](https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/#587435127f2b), including interwiews from our partcipants, co-chair and OC!
 - [AAAI-21 UC CfP is live](https://aaai.org/Conferences/AAAI-21/undergraduate-consortium/)
 
 ## AAAI-21 Undergraduate Consortium, Virtual 
