@@ -37,6 +37,78 @@ Faculty Panel Q&A  |
 | --- | --- |
 | baz | bim |
 
+<table>
+ <tbody>
+  <tr>
+   <td>8:00 - 8:15
+   </td>
+   <td>Opening remarks
+   </td>
+  </tr>
+  <tr>
+   <td>8:15 - 9:30
+   </td>
+   <td>Talk: Roles for Computing in Social Justice
+   </td>
+  </tr>
+  <tr>
+   <td>9:30 - 9:45
+   </td>
+   <td>Break
+   </td>
+  </tr>
+  <tr>
+   <td>9:45 - 11:00
+   </td>
+   <td>UC Scholar Mixer
+   </td>
+  </tr>
+  <tr>
+   <td>11:00 - 12:00
+   </td>
+   <td>Lunch Break
+   </td>
+  </tr>
+  <tr>
+   <td>12:10 - 13:30
+   </td>
+   <td>Talk: Wanted: You and Your Mind
+   </td>
+  </tr>
+  <tr>
+   <td>13:30 - 13:45
+   </td>
+   <td>Break
+   </td>
+  </tr>
+  <tr>
+   <td>13:45 - 14:30
+   </td>
+   <td>Grad Student Panel: What is grad school REALLY like?
+   </td>
+  </tr>
+  <tr>
+   <td>14:30 - 15:45
+   </td>
+   <td>UC Poster Practice Exercise
+   </td>
+  </tr>
+  <tr>
+   <td>16:00 - 16:45
+   </td>
+   <td>UC Poster Session
+   </td>
+  </tr>
+  <tr>
+   <td>16:50 - 17:00
+   </td>
+   <td>Closing remarks
+   </td>
+  </tr>
+  </tbody>
+</table>
+
+
 ## Keynote Speaker: Rediet Abebe
 <img width="200" alt="Photo" src="https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rabebe.jpg">
 
