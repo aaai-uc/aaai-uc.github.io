@@ -24,7 +24,7 @@ February 2-9, 2021
    </td>
    <td>Talk: Roles for Computing in Social Justice
 <p>
-Dr. Rediet Abebe [<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/rabebe.html">https://www2.eecs.berkeley.edu/Faculty/Homepages/rabebe.html</a>] 
+<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/rabebe.html">Dr. Rediet Abebe</a> 
 <p>
 Faculty Panel Q&A
   <tr>
@@ -50,7 +50,7 @@ Faculty Panel Q&A
    </td>
    <td>Talk: Wanted: You and Your Mind
 <p>
-Dr. Ann Gates [<a href="http://www.cs.utep.edu/agates/">http://www.cs.utep.edu/agates/</a>]
+<a href="http://www.cs.utep.edu/agates/">Dr. Ann Gates</a>
 <p>
 Faculty Panel Q&A
   <tr>
