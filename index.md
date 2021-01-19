@@ -1,6 +1,7 @@
 # AAAI Undergraduate Consortium
 
 ## Updates
+- [UC 2021 Program is posted.](./2021_schedule.md)
 - [AAAI-21 Undergraduate Consortium submission site](https://cmt3.research.microsoft.com/AAAIUC2021) is now live!
 - If you are interested in serving the UC as a PC, please complete [this form](https://bit.ly/AAAI21UCCfR).
 - Check out the Forbes article titled ["Why Diversity In AI Is So Important"](https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/#587435127f2b), including interwiews from our partcipants, 
