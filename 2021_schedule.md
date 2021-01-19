@@ -29,7 +29,7 @@ February 2-9, 2021
    <td>8:15 - 9:30
    </td>
    <td>
-    <a href="https://github.com/aaai-uc/aaai-uc.github.io/blob/master/2021_schedule.md#talk-title">Talk: Roles for Computing in Social Justice</a> by <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/rabebe.html">Dr. Rediet Abebe</a> 
+    <a href="https://aaai-uc.github.io/2021_schedule.html#talk-title">Talk: Roles for Computing in Social Justice</a> by <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/rabebe.html">Dr. Rediet Abebe</a> 
    </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ February 2-9, 2021
   <tr>
    <td>12:10 - 13:30
    </td>
-   <td><a href="https://github.com/aaai-uc/aaai-uc.github.io/blob/master/2021_schedule.md#talk-title-1">Talk: Wanted: You and Your Mind</a> by <a href="http://www.cs.utep.edu/agates/">Dr. Ann Gates</a> 
+   <td><a href="https://aaai-uc.github.io/2021_schedule.html#talk-title-1">Talk: Wanted: You and Your Mind</a> by <a href="http://www.cs.utep.edu/agates/">Dr. Ann Gates</a> 
    </td>
   </tr>
   <tr>
