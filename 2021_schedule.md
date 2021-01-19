@@ -14,10 +14,9 @@ February 2-9, 2021
 | Time (PST)  | Event |
 | ------------- | ------------- |
 | 8:00 - 8:15 | Opening remarks  |
-| 8:15 - 9:30  | Talk: Roles for Computing in Social Justice
-Dr. Rediet Abebe [https://www2.eecs.berkeley.edu/Faculty/Homepages/rabebe.html] 
-Faculty Panel Q&A
-  |
+| 8:15 - 9:30  | Talk: Roles for Computing in Social Justice <br/>
+Dr. Rediet Abebe [https://www2.eecs.berkeley.edu/Faculty/Homepages/rabebe.html] <br/>
+Faculty Panel Q&A  |
 
 <table>
 <thead>
