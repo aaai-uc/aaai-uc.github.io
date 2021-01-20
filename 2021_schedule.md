@@ -7,7 +7,10 @@ Virtual
 February 2-9, 2021
 
 
-# AAAI-21 Undergraduate Consortium Program of Events and Invited Talks
+# AAAI-21 Undergraduate Consortium 
+# Program of Events and Invited Talks
+## February 2, 2021
+
 
 ## Schedule at-a-glance
 
