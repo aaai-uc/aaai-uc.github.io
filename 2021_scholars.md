@@ -35,7 +35,7 @@ A significant portion of the veteran population suffers from PTSD, a mental illn
 <img width="200" alt="Photo" src="./2021/photos/Gabe.jpeg"> <br>
 Department of Computer Science and Engineering  <br>
 University of Minnesota - Twin Cities  <br>
-https://www.gabemersy.com/  <br>
+[https://www.gabemersy.com/](https://www.gabemersy.com/)  <br>
 
 Gabe is a final year undergraduate at the University of Minnesota studying computer science. His research interests include machine learning for audio signal processing; fairness, explainability, and ethics in AI; and computational social science. He is currently waiting to hear back from doctoral programs, and in his further studies, he aims to work on problems that have tangible societal impact.
 
@@ -47,7 +47,7 @@ Given recent advances in deep music source separation, a feature representation 
 <img width="200" alt="Photo" src="./2021/photos/Lucas.jpg"> <br>
 Department of Computer Science and Engineering,  <br>
 University of Minnesota <br>
-https://lgnadolskis.github.io  <br>
+[https://lgnadolskis.github.io](https://lgnadolskis.github.io)  <br>
 
 Lucas Gil Nadolskis is a senior undergraduate student at the University of Minnesota maring in Computer Science, with a minor in Integrated Neuroscience.  His current research is on the group of Dr Catherine Qi Zhao  and it is focused on brain computer interfaces. Specially one research project develops new AI and deep learning methods to decode amputee's motor intention based on their peripheral nerve activities.  Lucas plans to pursue a graduate degree at the intersection of computer science and neuroscience.
 
@@ -58,7 +58,7 @@ The project developed a device to assist blind and visually impaired users in co
 <img width="200" alt="Photo" src="./2021/photos/Gopi.jpeg"> <br>
 Computer Science and Engineering  <br>
 Indian Institute of Technology Roorkee  <br>
-https://www.linkedin.com/in/gkishan/  <br>
+[https://www.linkedin.com/in/gkishan/](https://www.linkedin.com/in/gkishan/)  <br>
 
 A curious computer scientist in making trying to find answers and solutions for problems in Artificial Intelligence. Familiar with Machine Learning, Deep Learning, Reinforcement Learning and Computer Science Fundamentals, with a specific interest in Computer Vision, Bayesian Learning and Representation Learning. Easily excited by mathematics, music and tea.
 
@@ -98,7 +98,7 @@ Automated deception detection systems can enhance societal well-being by helping
 <img width="200" alt="Photo" src="./2021/photos/Christian.jpeg"> <br>
 Computer Science Department  <br>
 Oberlin College  <br>
-https://arjunsubramonian.github.io/  <br>
+[https://arjunsubramonian.github.io/](https://arjunsubramonian.github.io/)  <br>
 
 Chris Ikeokwu (he/him) is a senior Mathematics and Computer Science major at Oberlin College in Ohio. He grew up in Nigeria and his research focuses on how you can apply tools from Theoretical Computer Science and Artificial Intelligence to solve important social and economics problems.
 
@@ -109,7 +109,7 @@ Rotating Savings and Credit Associations (Roscas) are a widely documented inform
 <img width="200" alt="Photo" src="./2021/photos/Arjun.jpeg"> <br>
 Sandia National Laboratories  <br>
 The University of Texas at Austin  <br>
-https://abraranwar.github.io/  <br>
+[https://abraranwar.github.io/](https://abraranwar.github.io/)  <br>
 
 Abrar Anwar is a senior studying computer science at the University of Texas at Austin. As an intern at Sandia National Labs, he is currently exploring the evolution of sparse, spiking neural networks topologies for efficient hardware-algorithm codesign. Previously at Sandia, he worked on brain-inspired localization and navigation algorithms. In addition to his research at Sandia, Abrar works on robotics, human-robot interaction, and graphics at UT Austin.
 
@@ -120,7 +120,7 @@ Neural architecture search (NAS) has emerged as an algorithmic method of develop
 <img width="200" alt="Photo" src="./2021/photos/Naveen.jpg"> <br>
 Computer Science Department  <br>
 University of Maryland  <br>
-naveenraman.com  <br>
+[naveenraman.com](naveenraman.com)  <br>
 
 I’m a computer science and statistics major at the University of Maryland. I'm working with John Dickerson on introducing fairness methods to ride-pooling algorithms. I'm also working with Jordan Boyd-Graber on extending Entity Linking to improve down stream performance on entity linking. I am interested in working on problems involving machine learning, artificial intelligence, and Econ-CS for social good, such as fairness, healthcare, and algorithmic game theory.
 
@@ -140,9 +140,10 @@ To combat wildlife poaching, rangers patrol expansive protected areas for illega
 ## Favour Nerrise
 <img width="200" alt="Photo" src="./2021/photos/Favour.jpeg"> <br>
 University of Maryland, College Park <br>
-https://www.linkedin.com/in/favournerrise/  <br>
+[https://www.linkedin.com/in/favournerrise/](https://www.linkedin.com/in/favournerrise/)  <br>
 
 Favour Nerrise is a student at the University of Maryland, College Park (Go Terps!), studying Computer Science and Mathematics with minors in Arabic and Global Engineering Leadership. Primarily identifying as Cameroonian, #237, Favour is an advocate of giving back to her community, currently by building her first STEM-focused school in Cameroon. She is currently conducting research with NASA Harvest on estimating cropland using ML techniques and with the Battle Data Lab on visualization recommender systems; she has previously applied AI and ML to research opportunities in novelty-based targeting with NASA JPL for the Mars 2020 Rover, integrated ML and agent-based modeling for hurricane forecast trajectories, and activation map analysis for filtering big data. She currently serves as the Region II Chairperson for the National Society of Black Engineers, is a member of the Women in Engineering Student Advisory Board at UMD, and a member of BlackinAI.
+
 ### Abstract 
 Current applications of Agent-based Modeling (ABM) in natural phenomena like wildfire land suppression are in monitoring behavior patterns among large groups of people (Hilljegerdes 2018). However, current evacuation times and plans for natural disaster management leave underserved communities vulnerable to substantial financial losses, especially when false positives during current predictions continue to influence evacuation decisions. A Machine Learning ABM  model of hurricane trajectories introduces a pioneering opportunity to capture complex physical processes associated with hurricanes while minimizing computational costs and errors, thereby providing more accurate real-time prediction of hurricanes for improved disaster management. This work focuses on the implementation of an RNN with bidirectional time-distributed Long-Short Term Memory cells (Usmani 2018). The observations and predictions were represented as a multi-agent system in NetLogo for further emergent pattern analysis in expanded research by Arthur Drake et. al (2020). The model also evaluates benchmark comparisons against the National Hurricane Center’s 5-Year Average Forecast Errors and the BCD5 Error Model. 
 
