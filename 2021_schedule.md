@@ -1,5 +1,5 @@
 [AAAI-21 UC @ the AAAI site ](https://aaai.org/Conferences/AAAI-21/undergraduate-consortium/)  
-Return to [the main page](https://aaai-uc.github.io/)
+Return to [the UC main page](https://aaai-uc.github.io/)
 
 [AAAI 2021 main site](http://aaai.org/Conferences/AAAI-21/)  
 Thirty-Fifth AAAI Conference on Artificial Intelligence  
