@@ -117,7 +117,7 @@ Dr. Ann Quiroz Gates is the Vice Provost of Faculty Affairs at the University of
 
 # Thanks
 
-We want to thank our Faculty mentors, panelists and speakers, as well as our graduate student mentors / panelists.
+We want to thank our Faculty mentors, panelists and speakers, as well as our graduate student mentors and panelists.
 
 ## Faculty Panelists
 Rediet Abebe, University of California, Berkeley  
@@ -136,3 +136,11 @@ De’Aira Bryant, Georgia Tech
 Taylor Kessler Faulkner, University of Texas, Austin  
 Jiaoyang Li, University of Southern California  
 Thao Nguyen, Brown University  
+
+## Graduate Student Mentors
+Laura Biester, University of Michigan  
+Victoria Edwards (she, her), University of Pennsylvania  
+Jiaoyang Li, University of Southern California. 
+Thao Nguyen, Brown University  
+Preeti Ramaraj, University of Michigan - Ann Arbor  
+Akanksha Saran, University of Texas at Austin  
