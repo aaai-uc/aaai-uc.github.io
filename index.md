@@ -1,7 +1,7 @@
 # AAAI Undergraduate Consortium
 
 ## Updates
-- [Meet our UC-21 scholars](https://aaai-uc.github.io/2021_scholars.html)
+- [Meet our UC-21 scholars.](https://aaai-uc.github.io/2021_scholars.html)
 - [UC 2021 Program is posted.](./2021_schedule.md)
 - [AAAI-21 Undergraduate Consortium submission site](https://cmt3.research.microsoft.com/AAAIUC2021) is now live!
 - If you are interested in serving the UC as a PC, please complete [this form](https://bit.ly/AAAI21UCCfR).
