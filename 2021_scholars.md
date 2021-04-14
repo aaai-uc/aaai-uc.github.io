@@ -59,7 +59,6 @@ To combat wildlife poaching, rangers patrol expansive protected areas for illega
 <img width="200" alt="Photo" src="./2021/photos/Christian.jpeg"> <br>
 Computer Science Department  <br>
 Oberlin College  <br>
-[https://arjunsubramonian.github.io/](https://arjunsubramonian.github.io/)  <br>
 [3-min pitch video](https://www.youtube.com/watch?v=eyRyz5ltcco&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=4)  <br>
 
 Chris Ikeokwu (he/him) is a senior Mathematics and Computer Science major at Oberlin College in Ohio. He grew up in Nigeria and his research focuses on how you can apply tools from Theoretical Computer Science and Artificial Intelligence to solve important social and economics problems.
