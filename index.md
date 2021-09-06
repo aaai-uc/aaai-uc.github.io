@@ -24,6 +24,7 @@ Visit our inaugural UC page: [AAAI-UC 2020.](./2020.md)
 Example research summaries from AAAI-UC 2020 are [available here](https://aaai-uc.github.io/2020/AAAI20_UC_Proceedings.pdf).
 
 
-## Undergraduate Consortium chair<!--co-chairs-->
+## Undergraduate Consortium co-chairs
 Eric Aaron, Colby College  
+Eliana Valenzuela-Andrade, University of Puerto Rico at Arecibo
 <aaai22ucchairs@aaai.org>
