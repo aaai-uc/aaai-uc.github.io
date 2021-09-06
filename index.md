@@ -26,5 +26,5 @@ Example research summaries from AAAI-UC 2020 are [available here](https://aaai-u
 
 ## Undergraduate Consortium co-chairs
 Eric Aaron, Colby College  
-Eliana Valenzuela-Andrade, University of Puerto Rico at Arecibo
+Eliana Valenzuela-Andrade, University of Puerto Rico at Arecibo  
 <aaai22ucchairs@aaai.org>
