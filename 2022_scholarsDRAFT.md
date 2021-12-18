@@ -37,7 +37,7 @@ Hannah M. Claus is a senior undergraduate pursuing a Bachelor of Science in Arti
 This paper explores the importance of using optimisation techniques when tuning a machine learning model. The hyperparameters that need to be determined for the Artificial Neural Network (ANN) to work most efficiently, are supposed to find a value that achieves the highest recognition accuracy in a face recognition application. First, the model was trained without an optimisation technique. The highest recognition accuracy that could be achieved was 96.6% with a specific set of parameters used in the ANN. However, the error rate was at 30%, which was not optimal. After utilising Grid Search as the first tuning method for hyperparameters, the recognition accuracy rose to 96.9% and the error rate could be minimised to be less than 1%. Applying Random Search, a recognition accuracy of 98.1% could be achieved with the same error rate. Hence, the accuracy of the facial recognition application could be increased by at least 2.1% by applying automated optimisation algorithms. Furthermore, this paper will also deal with common issues in face recognition (i.e. racial bias and gender bias) and focus on potential solutions. 
 
 ## Amelia Lee Dogan
-<img width="200" alt="Photo" src="./2022/photos/Amelia.jpeg"> <br>
+<img width="200" alt="Photo" src="./2022/photos/Amelia.jpg"> <br>
 Department of Urban Studies and Planning and Department of Electrical Engineering and Computer Science <br>
 Massachusetts Institute of Technology <br>
 [3-min pitch video](https://www.youtube.com/watch?v=XkU9ZXvMJtU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=10)  <br>
