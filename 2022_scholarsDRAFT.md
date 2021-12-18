@@ -8,7 +8,7 @@ February 22 - March 1, 2022
 
 # AAAI-22 Undergraduate Consortium 
 
-See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI-22 UC pitch videos is [available here](https://www.youtube.com/watch?v=dXsupAQAKgs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8), and links to individual videos accompany each scholar's profile, below. 
+<!--See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI-22 UC pitch videos is [available here](https://www.youtube.com/watch?v=dXsupAQAKgs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8), and links to individual videos accompany each scholar's profile, below. -->
 
 # Meet our scholars!
 
@@ -29,7 +29,7 @@ The concerns about AI-driven decision-making stems from the potential of technol
 School of Computer Science and Technology  <br>
 University of Bedfordshire  <br>
 [https://www.linkedin.com/in/hannah-claus-042382199/](https://www.linkedin.com/in/hannah-claus-042382199/)  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=eyRyz5ltcco&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=4)  <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=eyRyz5ltcco&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=4)  <br>-->
 
 Hannah M. Claus is a senior undergraduate pursuing a Bachelor of Science in Artificial Intelligence and Robotics at the University of Bedfordshire. She started programming at the age of 13 when she was the only girl in the Computer Science class at school. After receiving a scholarship by the Hasso-Plattner-Institute twice, where she could visit university lectures and deepen her knowledge on Software Engineering, she got the opportunity to study at the Technical University Berlin while still going to school. After those four years of simultaneously visiting university and school, she graduated at the age of 18 and decided to deepen her studies of AI and Robotics abroad in the UK. During her studies she is also working voluntarily for various organisations that support women and people of colour in STEM areas. Hannah is a published researcher and is working towards the goal to give more girls and women all around the world the opportunity to excel in STEM by making knowledge more accessible. As part of a research team of the German Aerospace Center (DLR), she is currently working on creating machine learning classifiers that detect and classify collisions for the humanoid robot Rollin' Justin to extend the applications of robots in space exploration.
 
@@ -40,7 +40,7 @@ This paper explores the importance of using optimisation techniques when tuning 
 <img width="200" alt="Photo" src="./2022/photos/Amelia.JPG"> <br>
 Department of Urban Studies and Planning and Department of Electrical Engineering and Computer Science <br>
 Massachusetts Institute of Technology <br>
-[3-min pitch video](https://www.youtube.com/watch?v=XkU9ZXvMJtU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=10)  <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=XkU9ZXvMJtU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=10)  <br>-->
 
 Amelia Lee Dogan (she/they) is an undergraduate student studying Urban Planning with Computer Science and American Studies at the Massachusetts Institute of Technology. Currently, she works at the Data + Feminism Lab researching data activism. Previously, they have worked at Google, the US Department of Transportation Volpe Center, West Philadelphia Landscape Project, and Movement Alliance Project/Vietlead. Her research interests primarily examine how communitie of color use data science for co-liberation. She’s from occupied Lenape land (Philadelphia/NYC) and Coast Salish territories (Vancouver). 
 
@@ -51,7 +51,7 @@ After criminal recidivism or hiring machine learning models have inflicted harm,
 <img width="200" alt="Photo" src="./2022/photos/Abigail.jpg"> <br>
 Department of Computer Science  <br>
 University of Colorado - Colorado Springs  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=O1Ud9TTHFtw&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=11)  <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=O1Ud9TTHFtw&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=11)  <br>-->
 
 Abigail Swenor is an undergraduate student at the University of Colorado - Colorado Springs (UCCS) majoring in computer science with minors in mathematics, computer engineering, and philosophy. She is an undergraduate researcher for the Language Information and Computation Lab at UCCS. Her research interests are in Natural Language Processing (NLP) and Machine Learning, and she is currently working with defense methods for adversarial attacks on NLP models. Abigail plans to pursue a PhD in computer science after completing her undergraduate studies at UCCS. 
 
@@ -63,7 +63,7 @@ Deep learning models have excelled in solving many difficult problems in Natural
 Electrical and Computer Engineering  <br>
 University of California, Davis  <br>
 [burningsilicon.dev](burningsilicon.dev)  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=3JrT1o2ICKs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=3)  <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=3JrT1o2ICKs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=3)  <br>-->
 
 I am a senior at UC Davis and hope to get a PhD in computer vision and robotics. For three years I have worked at prosthetics and robotics lab designing user studies to study the muscular motions of young children. For two years I have worked in a machine learning lab studying what factors will cause a study to translate from preclinical to clinical succesfully. Last summer I worked with Professor Aswin Sankarankarayanan studyign hyperspectral images at Carnegie Mellon University. I hope to apply machine learning and computer vision to space travel.
 
