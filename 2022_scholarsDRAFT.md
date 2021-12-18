@@ -24,7 +24,7 @@ I am a senior undergraduate student majoring in information science. Upon the co
 ### Abstract 
 The concerns about AI-driven decision-making stems from the potential of technology, such as computer vision, for policing, social control, and surveillance by both state and corporate interests. Already, social credit systems (SCS) have been deployed by the Chinese government in different regions of China. The discussions around the SCS are ambiguous: some people call them very controversial and a breach of human rights, while others say that the SCS and related surveillance systems are very similar in structure to the normal credit systems in the United States. In reality, though, there is no monolith and there are various different forms of mass surveillance and SCS deployed in different regions of China. I review and analyze these different models of the SCS. I also compare how the different systems are upholding or breaching China’s own AI ethics guidelines. In future work, I hope to present the Chinese SCS as a form of future control systems, a post-Foucauldian world, wherein jails are no longer required. 
 
-## Hannah M Claus
+## Hannah M. Claus
 <img width="200" alt="Photo" src="./2022/photos/Hannah.png"> <br>
 School of Computer Science and Technology  <br>
 University of Bedfordshire  <br>
@@ -47,7 +47,7 @@ Abigail Swenor is an undergraduate student at the University of Colorado - Color
 ### Abstract 
 Deep learning models have excelled in solving many difficult problems in Natural Language Processing (NLP), but it has been demonstrated that such models are susceptible to extensive vulnerabilities. We offer a solution to this vulnerability by using, during testing, random perturbations such as spelling correction if necessary, substitution by random synonym, or simply dropping the word. These perturbations are applied to random words in random sentences to defend NLP models against adversarial attacks. Our Random Perturbations Defense and Increased Randomness Defense methods are successful in returning attacked models to their original accuracy within statistical significance. 
 
-## Mira E Welner
+## Mira Welner
 <img width="200" alt="Photo" src="./2022/photos/Mira.jpg"> <br>
 Electrical and Computer Engineering  <br>
 University of California, Davis  <br>
