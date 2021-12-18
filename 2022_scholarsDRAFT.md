@@ -36,6 +36,17 @@ Hannah M. Claus is a senior undergraduate pursuing a Bachelor of Science in Arti
 ### Abstract 
 This paper explores the importance of using optimisation techniques when tuning a machine learning model. The hyperparameters that need to be determined for the Artificial Neural Network (ANN) to work most efficiently, are supposed to find a value that achieves the highest recognition accuracy in a face recognition application. First, the model was trained without an optimisation technique. The highest recognition accuracy that could be achieved was 96.6% with a specific set of parameters used in the ANN. However, the error rate was at 30%, which was not optimal. After utilising Grid Search as the first tuning method for hyperparameters, the recognition accuracy rose to 96.9% and the error rate could be minimised to be less than 1%. Applying Random Search, a recognition accuracy of 98.1% could be achieved with the same error rate. Hence, the accuracy of the facial recognition application could be increased by at least 2.1% by applying automated optimisation algorithms. Furthermore, this paper will also deal with common issues in face recognition (i.e. racial bias and gender bias) and focus on potential solutions. 
 
+## Amelia Lee Dogan
+<img width="200" alt="Photo" src="./2022/photos/Amelia.jpeg"> <br>
+Department of Urban Studies and Planning and Department of Electrical Engineering and Computer Science <br>
+Massachusetts Institute of Technology <br>
+[3-min pitch video](https://www.youtube.com/watch?v=XkU9ZXvMJtU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=10)  <br>
+
+Amelia Lee Dogan (she/they) is an undergraduate student studying Urban Planning with Computer Science and American Studies at the Massachusetts Institute of Technology. Currently, she works at the Data + Feminism Lab researching data activism. Previously, they have worked at Google, the US Department of Transportation Volpe Center, West Philadelphia Landscape Project, and Movement Alliance Project/Vietlead. Her research interests primarily examine how communitie of color use data science for co-liberation. She’s from occupied Lenape land (Philadelphia/NYC) and Coast Salish territories (Vancouver). 
+
+### Abstract 
+After criminal recidivism or hiring machine learning models have inflicted harm, participatory machine learning methods are often used as a corrective positioning. However, little guidance exists on how to develop participatory machine learning models in a ground-up format. Here we demonstrate how to co-design and partner with community groups, in the specific case of feminicide data activism. We co-designed and piloted a machine learning model for the detection of feminicide media articles. This provides an intersectional feminist perspective on practicing participatory methods in a co-creation mindset for the real-world scenario of feminicide monitoring.
+
 ## Abigail Swenor
 <img width="200" alt="Photo" src="./2022/photos/Abigail.jpg"> <br>
 Department of Computer Science  <br>
