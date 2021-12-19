@@ -81,6 +81,17 @@ Willa Potosnak is a senior biomedical engineering major at Duquesne University. 
 ### Abstract 
 Transferring expertise and knowledge across sites has been demonstrated to improve the quality of practices and outcomes across sites. However, understanding the subpopulations for whom knowledge transfers would yield potential benefit is also necessary as not all externally derived knowledge may be applicable to an entire population of interest. We propose an algorithmic rule selection approach which aims to select a short list of human-interpretable rules that reliably identify subpopulation beneficiaries of knowledge transfers in the form of machine learning risk models. Our experimental results, obtained with two intensive care monitoring datasets, demonstrate the potential utility of the proposed method in practice.
 
+## Ashley Schuliger
+<img width="200" alt="Photo" src="./2022/photos/Ashley.JPG"> <br>
+Department of Computer Science <br>
+Worcester Polytechnic Institute  <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=FYjli9KpEmM&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=8)  <br>-->
+
+Ashley Schuliger is an undergraduate at Worcester Polytechnic Institute, pursuing her combined Bachelor's and Masters degrees in Computer Science and Data Science. Her current research involves solving materials science problems utilizing data-driven solutions, such as multiple-instance learning. 
+
+### Abstract 
+Cold Spray Additive Manufacturing is an emerging technology utilized to build components with complex geometries. This technology has been widely adopted in various applications, including the repair of military vehicles and equipment, to improve efficiency and save resources. However, the behavior of a powder during cold spray processing varies depending upon its properties, namely its flowability. Currently, researchers do not fully understand the quantitative impact of a powder's properties on its Hall Flow rate. Thus, we developed a Multiple-Instance Regression framework to predict the flowability of a powder based on various properties of the underlying particles.
+
 ## Abigail Swenor
 <img width="200" alt="Photo" src="./2022/photos/Abigail.jpg"> <br>
 Department of Computer Science  <br>
