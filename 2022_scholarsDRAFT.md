@@ -74,7 +74,7 @@ Deep learning models have excelled in solving many difficult problems in Natural
 <img width="200" alt="Photo" src="./2022/photos/Mira.jpg"> <br>
 Electrical and Computer Engineering  <br>
 University of California, Davis  <br>
-[burningsilicon.dev](burningsilicon.dev)  <br>
+[burningsilicon.dev](https://burningsilicon.dev)  <br>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=3JrT1o2ICKs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=3)  <br>-->
 
 I am a senior at UC Davis and hope to get a PhD in computer vision and robotics. For three years I have worked at prosthetics and robotics lab designing user studies to study the muscular motions of young children. For two years I have worked in a machine learning lab studying what factors will cause a study to translate from preclinical to clinical succesfully. Last summer I worked with Professor Aswin Sankarankarayanan studyign hyperspectral images at Carnegie Mellon University. I hope to apply machine learning and computer vision to space travel.
