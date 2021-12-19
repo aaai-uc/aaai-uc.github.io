@@ -12,6 +12,17 @@ February 22 - March 1, 2022
 
 # Meet our scholars!
 
+## Natalie Abreu
+<img width="200" alt="Photo" src="./2022/photos/Natalie.jpg"> <br>
+Viterbi School of Engineering <br>
+University of Southern California  <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=b6_19zPghts&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=12)  <br>-->
+
+Natalie is a junior at the University of Southern California studying Computer Science. Her research interests include multi agent systems and machine learning foundations. She works in the Automatic Coordination of Teams Lab, mentored by Eric Ewing and Nora Ayanian. 
+
+### Abstract 
+Multi Agent Path Finding (MAPF) is widely needed to coordinate real-world robotic systems. New approaches turn to deep learning to solve MAPF instances, primarily using reinforcement learning, which has high computational costs. We propose a supervised learning approach to solve MAPF instances using a smaller, less costly model.
+
 ## Vishakha Agrawal
 <img width="200" alt="Photo" src="./2022/photos/Vishakha.jpg"> <br>
 Department of Information Science and Engineering  <br>
@@ -23,6 +34,17 @@ I am a senior undergraduate student majoring in information science. Upon the co
 
 ### Abstract 
 In recent times, the social credit systems (SCS) and similar mass surveillance systems driven by AI have been deployed by the Chinese government in various regions. However, the discussions around the SCS are ambiguous, wherein, some people call them very controversial and a breach of human rights and other people say that the SCS and related surveillance systems are very similar in structure to the normal credit systems in the United States. In reality, though, there is no monolith and there are various different forms of mass surveillance and SCS deployed in different regions of China. In this paper, I review and analyse the different models of the SCS in different areas of China. Then, I compare how the different systems are upholding or breaching China’s own AI Ethics guidelines. This work will contribute to the broader goal of the AI community in addressing concerns about AI-driven decision-making that stems from the use cases of technologies such as computer vision and their potential for policing, social control, and surveillance by both state and corporate interests. 
+
+## Kaleab Belete Belay
+<img width="200" alt="Photo" src="./2022/photos/Kaleab.jpg">  <br>
+School of Information Technology and Engineering (SiTE) <br>
+Addis Ababa Institute of Technology  <br/>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=2UVLACiXnM0&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=14)  <br>-->
+
+My name is Kaleab and I am a Software Engineering major with a passion for AI and Robotics. I believe AI and Robotics can be applied in developing countries to accelerate progress towards development. Making AI more affordable for use in low-resource environments is also an area of interest I am interested in. 
+
+### Abstract 
+Deep Neural Networks have memory and computational demands that often render them difficult to use in low-resource environments. Also, highly dense networks are over-parameterized and thus prone to overfitting. To address these problems, we introduce a novel algorithm that prunes (sparsifies) weights from the network by taking into account their magnitudes and gradients taken against a validation dataset. Unlike existing pruning methods, our method does not require the network model to be retrained once initial training is completed. On the CIFAR-10 dataset, our method reduced the number of paramters of MobileNet by a factor of 9X, from 14 million to 1.5 million, with just a 3.8% drop in accuracy.
 
 ## Hannah M. Claus
 <img width="200" alt="Photo" src="./2022/photos/Hannah.png"> <br>
