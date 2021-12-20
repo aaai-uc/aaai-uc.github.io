@@ -46,6 +46,17 @@ My name is Kaleab and I am a Software Engineering major with a passion for AI an
 ### Abstract 
 Deep Neural Networks have memory and computational demands that often render them difficult to use in low-resource environments. Also, highly dense networks are over-parameterized and thus prone to overfitting. To address these problems, we introduce a novel algorithm that prunes (sparsifies) weights from the network by taking into account their magnitudes and gradients taken against a validation dataset. Unlike existing pruning methods, our method does not require the network model to be retrained once initial training is completed. On the CIFAR-10 dataset, our method reduced the number of paramters of MobileNet by a factor of 9X, from 14 million to 1.5 million, with just a 3.8% drop in accuracy.
 
+## Georgia Channing
+<img width="200" alt="Photo" src="./2022/photos/Georgia.jpg"> <br>
+Tickle College of Engineering  <br>
+University of Tennessee, Knoxville <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=f-YSEJj2GpU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=5)  <br>-->
+
+Georgia Channing is a senior in Computer Science at the University of Tennessee, Knoxville (UTK). She currently researches high performance computing with Bayesian optimization techniques under Dr. Michela Taufer and runs a non-profit, the Algorithms Awareness Project, dedicated to raising awareness of data ethics and machine learning fairness. She serves as the Mentorship Director for UTK Systers and as a Program Manager for Hack4Impact, for which she manages the development of the Appalachian Community Fund resource database. She plans to pursue a graduate degree in Cognitive Science. 
+
+### Abstract 
+Hyperspectral imaging is used for a wide range of tasks from medical diagnostics to crop monitoring, but traditional imagers are prohibitively expensive for widespread use. This research strives to democratize hyperspectral imaging by using machine learning to reconstruct hyperspectral volumes from snapshot imagers. I propose a tunable lens with varying amounts of defocus paired with 31-channel spectral filter array mounted on a CMOS camera. These images are then fed into a reconstruction network that aims to recover the full 31-channel hyperspectral volume from a few encoded images with different amounts of defocus. 
+
 ## Hannah M. Claus
 <img width="200" alt="Photo" src="./2022/photos/Hannah.png"> <br>
 School of Computer Science and Technology  <br>
@@ -57,6 +68,18 @@ Hannah M. Claus is a senior undergraduate pursuing a Bachelor of Science in Arti
 
 ### Abstract 
 This paper explores the importance of using optimisation techniques when tuning a machine learning model. The hyperparameters that need to be determined for the Artificial Neural Network (ANN) to work most efficiently, are supposed to find a value that achieves the highest recognition accuracy in a face recognition application. First, the model was trained without an optimisation technique. The highest recognition accuracy that could be achieved was 96.6% with a specific set of parameters used in the ANN. However, the error rate was at 30%, which was not optimal. After utilising Grid Search as the first tuning method for hyperparameters, the recognition accuracy rose to 96.9% and the error rate could be minimised to be less than 1%. Applying Random Search, a recognition accuracy of 98.1% could be achieved with the same error rate. Hence, the accuracy of the facial recognition application could be increased by at least 2.1% by applying automated optimisation algorithms. Furthermore, this paper will also deal with common issues in face recognition (i.e. racial bias and gender bias) and focus on potential solutions. 
+
+
+## Breanne Crockett
+<img width="200" alt="Photo" src="./2022/photos/Breanne.jpg"> <br>
+Electrical Engineering and Computer Science Department  <br>
+University of Toledo  <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=qVO8cSIbMaY&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=9)  <br>-->
+
+Breanne Crockett is a senior undergraduate at the University of Toledo. She works in the Interdisciplinary Data Engineering And Science (IDEAS) lab, using machine learning to investigate students’ interaction with digital textbooks. She is passionate about improving education and accessibility of knowledge through machine learning. 
+
+### Abstract 
+This research explores how to measure and predict student’s mental workload when using digital interactive textbooks. The current work focuses on analysis of clickstream data from the textbook in search of viewing patterns among students. It was found that students typically fit one of three viewing patterns. These patterns can be used in further research to inform creation of new interactive texts for improved student success.
 
 ## Amelia Lee Dogan
 <img width="200" alt="Photo" src="./2022/photos/Amelia.JPG"> <br>
