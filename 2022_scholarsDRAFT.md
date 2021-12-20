@@ -85,7 +85,7 @@ Transferring expertise and knowledge across sites has been demonstrated to impro
 <img width="200" alt="Photo" src="./2022/photos/Wes.jpg"> <br>
 Computer Science  <br>
 Montana State University  <br>
-[wes-robbins.xyz](https://wes-robbins.xyz/)  <br>
+[http://wes-robbins.xyz](http://wes-robbins.xyz/)  <br>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=dXsupAQAKgs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=1)  <br>-->
 
 Wes Robbins is pursuing a Bachelor of Science in Computer Science at Montana State University. His research interests include deep learning, computer vision, and fusing input from multiple modalities. Wes was an intern at the Language Information and Computation Lab at the University of Colorado, Colorado Springs where he worked at the intersection of NLP and Computer Vision.
