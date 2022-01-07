@@ -127,16 +127,7 @@ Thank you to our speakers, Faculty panelists, and graduate student panelists and
   
 
 ## Graduate Student Panelists
-De’Aira Bryant, Georgia Tech  
-Taylor Kessler Faulkner, University of Texas, Austin  
-Jiaoyang Li, University of Southern California  
-Thao Nguyen, Brown University  
 
 ## Graduate Student Mentors
-Laura Biester, University of Michigan  
-Victoria Edwards (she, her), University of Pennsylvania  
-Jiaoyang Li, University of Southern California  
-Thao Nguyen, Brown University  
-Preeti Ramaraj, University of Michigan - Ann Arbor  
-Akanksha Saran, University of Texas at Austin  
+
 
