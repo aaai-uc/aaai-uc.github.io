@@ -107,7 +107,7 @@ src="https://amandastent.net/images/Amanda-Stent-523A5582-select-1024x682.jpeg">
 [insert bio here]
 
 ## Keynote Speaker: Patti Ord&oacute;&ntilde;ez
-<img width="200" alt="Photo" src="https://ccom.uprrp.edu/~pordonez/images/PattiMadura.jpg">  
+<img height="200" alt="Photo" src="https://ccom.uprrp.edu/~pordonez/images/PattiMadura.jpg">  
 
  
 ### Talk Title 
