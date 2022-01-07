@@ -121,7 +121,7 @@ src="https://amandastent.net/images/Amanda-Stent-523A5582-select-1024x682.jpeg">
 
 # Thanks
 
-Thank you to our speakers, Faculty panelists, and graduate student panelists and mentors!
+Thank you to our speakers, faculty panelists, and graduate student panelists and mentors!
 
 ## Faculty Panelists
   
