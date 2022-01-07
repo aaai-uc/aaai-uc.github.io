@@ -8,6 +8,11 @@ February 22 - March 1, 2022
 
 
 # AAAI-22 Undergraduate Consortium 
+
+## UC-22 Scholars
+
+[Meet our UC-22 scholars!](https://aaai-uc.github.io/2022_scholars.html)
+
 # Program of Events and Invited Talks
 ## February 22, 2022
 
