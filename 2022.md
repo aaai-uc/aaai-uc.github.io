@@ -1,7 +1,7 @@
 [AAAI-22 UC @ the AAAI site ](https://aaai.org/Conferences/AAAI-22/undergraduate-consortium/)  
 Return to [the main AAAI Undergraduate Consortium page](https://aaai-uc.github.io/)
 
-[AAAI 2022 main site](http://aaai.org/Conferences/AAAI-22/)  
+[AAAI 2022 main site](https://aaai.org/Conferences/AAAI-22/)  
 Thirty-Sixth AAAI Conference on Artificial Intelligence  
 February 22 - March 1, 2022
 
