@@ -94,7 +94,7 @@ February 22 - March 1, 2022
 
 
 ## Keynote Speaker: Amanda Stent
-<img width="200" alt="Photo" 
+<img height="200" alt="Photo" 
 src="https://amandastent.net/images/Amanda-Stent-523A5582-select-1024x682.jpeg">
 
 ### Talk Title 
