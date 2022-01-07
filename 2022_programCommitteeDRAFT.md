@@ -10,7 +10,7 @@ February 22 - March 1, 2022
 
 # Thank you to the AAAI-22 UC Program Committee!
 
-The AAAI 2022 Undergraduate Consortium thanks all of the members of its program committe for their contributions to selecting our AAAI-22 UC Cohort. [(Meet our cohort!)](https://aaai-uc.github.io/2022_scholars.html)
+The AAAI 2022 Undergraduate Consortium thanks all of the members of its program committee for their contributions to selecting our AAAI-22 UC Cohort. [(Meet our cohort!)](https://aaai-uc.github.io/2022_scholarsDRAFT.html)
 
 ## Undergraduate Consortium Co-Chairs
 - Eric Aaron, Colby College  
