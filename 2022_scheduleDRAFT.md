@@ -100,7 +100,7 @@ February 22 - March 1, 2022
 
 ## Keynote Speaker: Amanda Stent
 <img height="200" alt="Photo" 
-src="https://amandastent.net/images/Amanda-Stent-523A5582-select-1024x682.jpeg">
+src="./2022/photos/AmandaStentPicCropped.jpg">
 
 ### Talk Title 
 [insert title here]
@@ -108,7 +108,7 @@ src="https://amandastent.net/images/Amanda-Stent-523A5582-select-1024x682.jpeg">
 ### Abstract
 [insert abstract here]
 
-### Bio 
+### Bio (reprinted from [amandastent.net](https://amandastent.net) with permission. Look, no pronouns!)
 [insert bio here]
 
 ## Keynote Speaker: Patti Ord&oacute;&ntilde;ez
