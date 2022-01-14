@@ -61,7 +61,7 @@ February 22 - March 1, 2022
   <tr>
    <td>12:10 - 13:30
    </td>
-   <td><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patti-ordonez">Talk: [insert title here]</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patti Ord&oacute;&ntilde;ez</a> 
+   <td><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: [insert title here]</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a> 
    </td>
   </tr>
   <tr>
@@ -120,18 +120,17 @@ Dr. Amanda Stent:
 
 
 
-## Keynote Speaker: Patti Ord&oacute;&ntilde;ez
+## Keynote Speaker: Patricia Ord&oacute;&ntilde;ez
 <img height="200" alt="Photo" src="https://ccom.uprrp.edu/~pordonez/images/PattiMadura.jpg">  
-
  
 ### Talk Title 
-[insert title here]
+Ci eS para mí
 
 ### Abstract
-[insert abstract here]
+For many years, I could not see myself as a programmer or computer scientist or any kind of scientist for that matter. I have always been a teacher at heart, but in my mid thirties, technology started to pique my curiosity, in particular AI for medicine. I will share with you my circuitous journey to becoming the first Latina to graduate from the College of Engineering and Information Technology with Ph.D. at the University of Maryland Baltimore County starting at the age of 38 and the first tenured Latina at the University of Puerto Rico Río Piedras in the Department of Computer Science.
 
 ### Bio 
-[insert bio here]
+Patricia Ordóñez is an Associate Professor in the Computer Science faculty at the University of Puerto Rico Río Piedras and thereby fulfilling two lifelong and one unexpected midlife dreams -- living in a Spanish speaking country, having the opportunity to make a greater difference in the world, and becoming a professor. Her research interests are in applying machine learning, data mining, and visualization to multivariate time series analysis, specifically to large repositories of clinical data (now known as Biomedical Data Science). She was the first Latina to graduate with a PhD from the College of Engineering and Information Technology at the University of Maryland Baltimore County and the first female Associate Professor to earn tenure in the Computer Science Department at the University of Puerto Rico Río Piedras (UPRRP). She is a former National Science Foundation Graduate Research Fellow. She is serving as General Chair at the 2022 Tapia Celebration of Diversity in Computing Conference as well as co-Chair of the Diversity and Inclusion Council of the Association of Computing Machinery (ACM). She is the recipient of the Great Minds in STEM 2021 HENAAC Award in Education. She is passionate about creating a more inclusive culture in computing and STEM and about bridging the digital and data divide in global healthcare and education.
 
 # Thanks
 
@@ -141,6 +140,8 @@ Thank you to our speakers, faculty panelists, and graduate student panelists and
   
 
 ## Graduate Student Panelists
+Akanksha Atrey, University of Massachusetts, Amherst
+Jiaoyang Li, University of Southern California 
 
 ## Graduate Student Mentors
 
