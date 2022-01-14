@@ -37,7 +37,7 @@ February 22 - March 1, 2022
    <td>8:15 - 9:30
    </td>
    <td>
-    <a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: [insert title here]</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a> 
+    <a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: Values-driven Approaches to AI Research:</br> What Values We Say We Are Pursuing and What We Are Actually Pursuing</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a> 
    </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ February 22 - March 1, 2022
   <tr>
    <td>12:10 - 13:30
    </td>
-   <td><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: [insert title here]</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a> 
+   <td><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a> 
    </td>
   </tr>
   <tr>
@@ -102,8 +102,8 @@ February 22 - March 1, 2022
 <img height="200" alt="Photo" 
 src="./2022/photos/AmandaStentPicCropped.jpg">
 
-### Talk Title 
-[insert title here]
+### Talk Title  [Tentative!]
+Values-driven Approaches to AI Research: What Values We Say We Are Pursuing and What We Are Actually Pursuing
 
 ### Abstract
 [insert abstract here]
@@ -140,7 +140,7 @@ Thank you to our speakers, faculty panelists, and graduate student panelists and
   
 
 ## Graduate Student Panelists
-Akanksha Atrey, University of Massachusetts, Amherst
+Akanksha Atrey, University of Massachusetts - Amherst  
 Jiaoyang Li, University of Southern California 
 
 ## Graduate Student Mentors
