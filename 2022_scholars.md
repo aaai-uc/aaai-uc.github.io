@@ -65,7 +65,7 @@ Hyperspectral imaging is used for a wide range of tasks from medical diagnostics
 School of Computer Science and Technology  <br>
 University of Bedfordshire  <br>
 [https://www.linkedin.com/in/hannah-claus-042382199/](https://www.linkedin.com/in/hannah-claus-042382199/)  <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=eyRyz5ltcco&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=4)  <br>-->
+[3-min pitch video](https://www.youtube.com/watch?v=3uVUPZ8uTM8)  <br>
 
 Hannah M. Claus is a senior undergraduate pursuing a Bachelor of Science in Artificial Intelligence and Robotics at the University of Bedfordshire. She started programming at the age of 13 when she was the only girl in the Computer Science class at school. After receiving a scholarship by the Hasso-Plattner-Institute twice, where she could visit university lectures and deepen her knowledge on Software Engineering, she got the opportunity to study at the Technical University Berlin while still going to school. After those four years of simultaneously visiting university and school, she graduated at the age of 18 and decided to deepen her studies of AI and Robotics abroad in the UK. During her studies she is also working voluntarily for various organisations that support women and people of colour in STEM areas. Hannah is a published researcher and is working towards the goal to give more girls and women all around the world the opportunity to excel in STEM by making knowledge more accessible. As part of a research team of the German Aerospace Center (DLR), she is currently working on creating machine learning classifiers that detect and classify collisions for the humanoid robot Rollin' Justin to extend the applications of robots in space exploration.
 
