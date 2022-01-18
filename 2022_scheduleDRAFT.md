@@ -140,8 +140,9 @@ Thank you to our speakers, faculty panelists, and graduate student panelists and
   
 
 ## Graduate Student Panelists
-Akanksha Atrey, University of Massachusetts - Amherst  
-Jiaoyang Li, University of Southern California 
+Akanksha Atrey, University of Massachusetts Amherst  
+Jiaoyang Li, University of Southern California   
+Thao Nguyen, Brown University  
 
 ## Graduate Student Mentors
 
