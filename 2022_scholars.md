@@ -19,7 +19,7 @@ See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI
 <img width="200" alt="Photo" src="./2022/photos/Natalie.jpg"> <br>
 Viterbi School of Engineering <br>
 University of Southern California  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=eXi04YEw7jI&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=9)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=eXi04YEw7jI&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=9)  <br>
 
 Natalie is a junior at the University of Southern California studying Computer Science. Her research interests include multi agent systems and machine learning foundations. She works in the Automatic Coordination of Teams Lab, mentored by Eric Ewing and Nora Ayanian. 
 
@@ -31,7 +31,7 @@ Multi Agent Path Finding (MAPF) is widely needed to coordinate real-world roboti
 Department of Information Science and Engineering  <br>
 Dayananda Sagar College of Engineering  <br>
 [https://vishakha-a.github.io/](https://vishakha-a.github.io) <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=0E2jPSKyNQk&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=7)  <br>-->
+<!--[3-minute pitch video](https://www.youtube.com/watch?v=0E2jPSKyNQk&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=7)  <br>-->
 
 I am a senior undergraduate student majoring in information science. Upon the completion of my undergraduate degree, I plan to pursue a Ph.D. in computer science. My research interests and experiences lie within the broad area of trustworthy machine learning. More specifically, my research spans explainable, fair, and robust ML. I am also very interested in AI ethics and algorithmic justice. In my free time, I enjoy hiking, napping, and attending conferences.
 
@@ -42,7 +42,7 @@ In recent times, the social credit systems (SCS) and similar mass surveillance s
 <img width="200" alt="Photo" src="./2022/photos/Kaleab.jpg">  <br>
 School of Information Technology and Engineering (SiTE) <br>
 Addis Ababa Institute of Technology  <br/>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=2UVLACiXnM0&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=14)  <br>-->
+<!--[3-minute pitch video](https://www.youtube.com/watch?v=2UVLACiXnM0&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=14)  <br>-->
 
 My name is Kaleab and I am a Software Engineering major with a passion for AI and Robotics. I believe AI and Robotics can be applied in developing countries to accelerate progress towards development. Making AI more affordable for use in low-resource environments is also an area of interest I am interested in. 
 
@@ -53,7 +53,7 @@ Deep Neural Networks have memory and computational demands that often render the
 <img width="200" alt="Photo" src="./2022/photos/Georgia.jpg"> <br>
 Tickle College of Engineering  <br>
 University of Tennessee, Knoxville <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=f-YSEJj2GpU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=5)  <br>-->
+<!--[3-minute pitch video](https://www.youtube.com/watch?v=f-YSEJj2GpU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=5)  <br>-->
 
 Georgia Channing is a senior in Computer Science at the University of Tennessee, Knoxville (UTK). She currently researches high performance computing with Bayesian optimization techniques under Dr. Michela Taufer and runs a non-profit, the Algorithms Awareness Project, dedicated to raising awareness of data ethics and machine learning fairness. She serves as the Mentorship Director for UTK Systers and as a Program Manager for Hack4Impact, for which she manages the development of the Appalachian Community Fund resource database. She plans to pursue a graduate degree in Cognitive Science. 
 
@@ -65,7 +65,7 @@ Hyperspectral imaging is used for a wide range of tasks from medical diagnostics
 School of Computer Science and Technology  <br>
 University of Bedfordshire  <br>
 [https://www.linkedin.com/in/hannah-claus-042382199/](https://www.linkedin.com/in/hannah-claus-042382199/)  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=3uVUPZ8uTM8&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=2)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=3uVUPZ8uTM8&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=2)  <br>
 
 Hannah M. Claus is a senior undergraduate pursuing a Bachelor of Science in Artificial Intelligence and Robotics at the University of Bedfordshire. She started programming at the age of 13 when she was the only girl in the Computer Science class at school. After receiving a scholarship by the Hasso-Plattner-Institute twice, where she could visit university lectures and deepen her knowledge on Software Engineering, she got the opportunity to study at the Technical University Berlin while still going to school. After those four years of simultaneously visiting university and school, she graduated at the age of 18 and decided to deepen her studies of AI and Robotics abroad in the UK. During her studies she is also working voluntarily for various organisations that support women and people of colour in STEM areas. Hannah is a published researcher and is working towards the goal to give more girls and women all around the world the opportunity to excel in STEM by making knowledge more accessible. As part of a research team of the German Aerospace Center (DLR), she is currently working on creating machine learning classifiers that detect and classify collisions for the humanoid robot Rollin' Justin to extend the applications of robots in space exploration.
 
@@ -77,7 +77,7 @@ This paper explores the importance of using optimisation techniques when tuning 
 <img width="200" alt="Photo" src="./2022/photos/Breanne.jpg"> <br>
 Electrical Engineering and Computer Science Department  <br>
 University of Toledo  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=m4Q9VAliHYA&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=1)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=m4Q9VAliHYA&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=1)  <br>
 
 Breanne Crockett is a senior undergraduate at the University of Toledo. She works in the Interdisciplinary Data Engineering And Science (IDEAS) lab, using machine learning to investigate students’ interaction with digital textbooks. She is passionate about improving education and accessibility of knowledge through machine learning. 
 
@@ -88,7 +88,7 @@ This research explores how to measure and predict student’s mental workload wh
 <img width="200" alt="Photo" src="./2022/photos/Amelia.JPG"> <br>
 Department of Urban Studies and Planning and Department of Electrical Engineering and Computer Science <br>
 Massachusetts Institute of Technology <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=XkU9ZXvMJtU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=10)  <br>-->
+<!--[3-minute pitch video](https://www.youtube.com/watch?v=XkU9ZXvMJtU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=10)  <br>-->
 
 Amelia Lee Dogan (she/they) is an undergraduate student studying Urban Planning with Computer Science and American Studies at the Massachusetts Institute of Technology. Currently, she works at the Data + Feminism Lab researching data activism. Previously, they have worked at Google, the US Department of Transportation Volpe Center, West Philadelphia Landscape Project, and Movement Alliance Project/Vietlead. Her research interests primarily examine how communitie of color use data science for co-liberation. She’s from occupied Lenape land (Philadelphia/NYC) and Coast Salish territories (Vancouver). 
 
@@ -100,7 +100,7 @@ After criminal recidivism or hiring machine learning models have inflicted harm,
 Biomedical Engineering  <br>
 Duquesne University  <br>
 [https://www.linkedin.com/in/willa-potosnak-4679b119a/](https://www.linkedin.com/in/willa-potosnak-4679b119a/)  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=TmEv2fgSs6c&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=4)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=TmEv2fgSs6c&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=4)  <br>
 
 Willa Potosnak is a senior biomedical engineering major at Duquesne University. She works in the Auton Lab at Carnegie Mellon University under the mentorship of Dr. Artur Dubrawski and Dr. Kyle Miller. She is currently researching methods to improve machine learning (ML) model integrity and interpretability with the objective of ensuring the reliable implementation of artificial intelligence (AI) in practice. Among her research goals is to improve ML methods that are used to aid diagnostics and early event detection. She is also interested in research that supports protecting data privacy and security to promote distributed frameworks which can facilitate knowledge transfer between institutions. After obtaining her undergraduate degree, she intends to obtain a doctoral degree in ML research aimed at improving AI systems to enhance people’s quality of life.
 
@@ -112,7 +112,7 @@ Transferring expertise and knowledge across sites has been demonstrated to impro
 Computer Science  <br>
 Montana State University  <br>
 [http://wes-robbins.xyz](http://wes-robbins.xyz/)  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=1LpFr70bwwQ&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=8)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=1LpFr70bwwQ&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=8)  <br>
 
 Wes Robbins is pursuing a Bachelor of Science in Computer Science at Montana State University. His research interests include deep learning, computer vision, and fusing input from multiple modalities. Wes was an intern at the Language Information and Computation Lab at the University of Colorado, Colorado Springs where he worked at the intersection of NLP and Computer Vision.
 
@@ -123,7 +123,7 @@ While text generated by current vision-language models may be accurate and synta
 <img width="200" alt="Photo" src="./2022/photos/Eshika.jpg"> <br>
 School of Engineering and Applied Sciences  <br>
 Harvard University  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=ljncFju8PuY&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=7)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=ljncFju8PuY&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=7)  <br>
 
 Eshika is a junior at Harvard majoring in Computer Science. She has worked on research involving the application of machine learning to radiology and disease diagnostics for the past five years. She is interested in the intersection of computer science, artificial intelligence, and medicine. In her free time, she enjoys dancing, baking, and traveling.
 
@@ -134,7 +134,7 @@ Breast reconstruction surgery requires extensive planning, usually with a CT sca
 <img width="200" alt="Photo" src="./2022/photos/Abigail.jpg"> <br>
 Department of Computer Science  <br>
 University of Colorado - Colorado Springs  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=YVNYCns3J6g&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=5)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=YVNYCns3J6g&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=5)  <br>
 
 Abigail Swenor is an undergraduate student at the University of Colorado - Colorado Springs (UCCS) majoring in computer science with minors in mathematics, computer engineering, and philosophy. She is an undergraduate researcher for the Language Information and Computation Lab at UCCS. Her research interests are in Natural Language Processing (NLP) and Machine Learning, and she is currently working with defense methods for adversarial attacks on NLP models. Abigail plans to pursue a PhD in computer science after completing her undergraduate studies at UCCS. 
 
@@ -146,7 +146,7 @@ Deep learning models have excelled in solving many difficult problems in Natural
 Electrical and Computer Engineering  <br>
 University of California, Davis  <br>
 [burningsilicon.dev](https://burningsilicon.dev)  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=54Wi90ZbdmE&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=6)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=54Wi90ZbdmE&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=6)  <br>
 
 I am a senior at UC Davis and hope to get a PhD in computer vision and robotics. For three years I have worked at prosthetics and robotics lab designing user studies to study the muscular motions of young children. For two years I have worked in a machine learning lab studying what factors will cause a study to translate from preclinical to clinical succesfully. Last summer I worked with Professor Aswin Sankarankarayanan studyign hyperspectral images at Carnegie Mellon University. I hope to apply machine learning and computer vision to space travel.
 
@@ -157,7 +157,7 @@ We introduce a novel technique to identify the three primary materials in a scen
 <img width="200" alt="Photo" src="./2022/photos/Funing.jpg"> <br>
 Department of Computer Science  <br>
 Wellesley College <br>
-[3-min pitch video](https://www.youtube.com/watch?v=6ZAKLowf9bE&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=3)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=6ZAKLowf9bE&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=3)  <br>
 
 Funing is a senior majoring in computer science and English at Wellesley College. Given her interdisciplinary background, Funing is passionate to apply her computational skills to the humanities and social sciences with a strong interest in Natural Language Processing and computational linguistics. Funing has served as a research assistant at MIT Digital Humanities Lab developing various dynamic web apps for humanities scholars’ research needs, and at MIT CSAIL to advance AI for K-12 education with interactive conversational AI modules, and at Wellesley College Cred Lab for data mining projects that analyze the credibility of news sources at scale with modeling. Funing is currently working on her senior thesis on NLP and computational narrative understanding, and hopes to pursue a career in AI research in the future.  
 
