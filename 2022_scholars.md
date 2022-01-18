@@ -19,7 +19,7 @@ See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI
 <img width="200" alt="Photo" src="./2022/photos/Natalie.jpg"> <br>
 Viterbi School of Engineering <br>
 University of Southern California  <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=b6_19zPghts&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=12)  <br>-->
+[3-min pitch video](https://www.youtube.com/watch?v=eXi04YEw7jI)  <br>
 
 Natalie is a junior at the University of Southern California studying Computer Science. Her research interests include multi agent systems and machine learning foundations. She works in the Automatic Coordination of Teams Lab, mentored by Eric Ewing and Nora Ayanian. 
 
