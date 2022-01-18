@@ -37,7 +37,7 @@ February 22 - March 1, 2022
    <td>8:15 - 9:30
    </td>
    <td>
-    <a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: Values-driven Approaches to AI Research:</br> What Values We Say We Are Pursuing and What We Are Actually Pursuing</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a> 
+    <a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: Values-driven Approaches to AI Research: What Values We Say We Are Pursuing and What We Are Actually Pursuing</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a> 
    </td>
   </tr>
   <tr>
