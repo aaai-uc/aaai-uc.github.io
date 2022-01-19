@@ -42,7 +42,7 @@ In recent times, the social credit systems (SCS) and similar mass surveillance s
 <img width="200" alt="Photo" src="./2022/photos/Kaleab.jpg">  <br>
 School of Information Technology and Engineering (SiTE) <br>
 Addis Ababa Institute of Technology  <br/>
-<!--[3-minute pitch video](https://www.youtube.com/watch?v=2UVLACiXnM0&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=14)  <br>-->
+[3-minute pitch video](https://www.youtube.com/watch?v=uKjqRF7XQ2c&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=10)  <br>
 
 My name is Kaleab and I am a Software Engineering major with a passion for AI and Robotics. I believe AI and Robotics can be applied in developing countries to accelerate progress towards development. Making AI more affordable for use in low-resource environments is also an area of interest I am interested in. 
 
@@ -53,7 +53,7 @@ Deep Neural Networks have memory and computational demands that often render the
 <img width="200" alt="Photo" src="./2022/photos/Georgia.jpg"> <br>
 Tickle College of Engineering  <br>
 University of Tennessee, Knoxville <br>
-<!--[3-minute pitch video](https://www.youtube.com/watch?v=f-YSEJj2GpU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=5)  <br>-->
+[3-minute pitch video](https://www.youtube.com/watch?v=ZhOXlxUEUsk&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=11)  <br>
 
 Georgia Channing is a senior in Computer Science at the University of Tennessee, Knoxville (UTK). She currently researches high performance computing with Bayesian optimization techniques under Dr. Michela Taufer and runs a non-profit, the Algorithms Awareness Project, dedicated to raising awareness of data ethics and machine learning fairness. She serves as the Mentorship Director for UTK Systers and as a Program Manager for Hack4Impact, for which she manages the development of the Appalachian Community Fund resource database. She plans to pursue a graduate degree in Cognitive Science. 
 
