@@ -31,7 +31,7 @@ Multi Agent Path Finding (MAPF) is widely needed to coordinate real-world roboti
 Department of Information Science and Engineering  <br>
 Dayananda Sagar College of Engineering  <br>
 [https://vishakha-a.github.io/](https://vishakha-a.github.io) <br>
-<!--[3-minute pitch video](https://www.youtube.com/watch?v=0E2jPSKyNQk&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=7)  <br>-->
+[3-minute pitch video](https://www.youtube.com/watch?v=uzs6RLg7WnY&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=12)  <br>
 
 I am a senior undergraduate student majoring in information science. Upon the completion of my undergraduate degree, I plan to pursue a Ph.D. in computer science. My research interests and experiences lie within the broad area of trustworthy machine learning. More specifically, my research spans explainable, fair, and robust ML. I am also very interested in AI ethics and algorithmic justice. In my free time, I enjoy hiking, napping, and attending conferences.
 
@@ -88,7 +88,7 @@ This research explores how to measure and predict student’s mental workload wh
 <img width="200" alt="Photo" src="./2022/photos/Amelia.JPG"> <br>
 Department of Urban Studies and Planning and Department of Electrical Engineering and Computer Science <br>
 Massachusetts Institute of Technology <br>
-<!--[3-minute pitch video](https://www.youtube.com/watch?v=XkU9ZXvMJtU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=10)  <br>-->
+[3-minute pitch video](https://www.youtube.com/watch?v=-FzUr9cpZeg&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=13)  <br>
 
 Amelia Lee Dogan (she/they) is an undergraduate student studying Urban Planning with Computer Science and American Studies at the Massachusetts Institute of Technology. Currently, she works at the Data + Feminism Lab researching data activism. Previously, they have worked at Google, the US Department of Transportation Volpe Center, West Philadelphia Landscape Project, and Movement Alliance Project/Vietlead. Her research interests primarily examine how communitie of color use data science for co-liberation. She’s from occupied Lenape land (Philadelphia/NYC) and Coast Salish territories (Vancouver). 
 
