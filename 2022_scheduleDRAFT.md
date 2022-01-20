@@ -108,7 +108,7 @@ What Values Matter to AI Researchers?
 ### Abstract
 As AI researchers, we seek the advancement of science or engineering progress. However, other values also drive us as individuals and as groups, including desires to "keep up" or move fast, to achieve recognition, to help others, to encourage diversity, to make money, and so on. Often, these unspoken values drive our priorities. Discussions of values are really discussions about ethics, but I quite frequently hear computer scientists say that we are unqualified to think about ethics, or should not have to think about ethics.  In this talk, I will share some of my values as a researcher over time and give two examples of past research projects of my own where unspoken values either positively or negatively impacted the quality of the research, as well as an example of how my values have changed in response to conversations with other AI researchers. I will raise some questions about what values may be driving the ways in which we currently "do AI" and talk about AI, and share my current thinking about how we can surface all of our values, so that we can have conscious conversations about the scientific choices we make.
 
-### Bio <font size="3">(No pronouns! From [amandastent.net](https://amandastent.net), with permission.)</font>
+### Bio (No pronouns! From [amandastent.net](https://amandastent.net), with permission.)
 
 Dr. Amanda Stent:
 
