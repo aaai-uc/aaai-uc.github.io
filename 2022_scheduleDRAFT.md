@@ -137,7 +137,9 @@ Dr. Patricia Ordóñez is an Associate Professor in the Computer Science faculty
 Thank you to our speakers, faculty panelists, and graduate student panelists and mentors!
 
 ## Faculty Panelists
-Jorge Ortiz, Rutgers University    
+Patricia Ordóñez, University of Puerto Rico Río Piedras  
+Jorge Ortiz, Rutgers University   
+Amanda Stent, Colby College  
 
 ## Graduate Student Panelists
 Akanksha Atrey, University of Massachusetts Amherst  
