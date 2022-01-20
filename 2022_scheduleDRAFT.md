@@ -17,7 +17,7 @@ February 22 - March 1, 2022
 ## February 22, 2022
 
 
-## Schedule at-a-glance
+## Schedule at-a-glance [TENTATIVE!]
 
 <table>
  <thead>
@@ -134,7 +134,7 @@ Dr. Patricia Ordóñez is an Associate Professor in the Computer Science faculty
 
 # Thanks
 
-Thank you to our speakers, faculty panelists, and graduate student panelists and mentors!
+Thank you to our speakers, faculty panelists, and graduate student panelists and mentors! (TENTATIVE / INCOMPLETE LISTS BELOW)
 
 ## Faculty Panelists
 Patricia Ordóñez, University of Puerto Rico Río Piedras  
