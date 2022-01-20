@@ -118,7 +118,7 @@ Dr. Amanda Stent:
 - Has authored or co-authored over 100 papers on natural language processing and is co-inventor on over 30 patents.
 - Is one of the inaugural editors-in-chief of [ACL Rolling Review](https://aclrollingreview.org/), a board member of [CRA-WP](https://cra.org/cra-wp/) and an [ABET](https://abet.org/) program evaluator. Also currently serves on the National Academies Committee studying [Responsible Computing Research](https://www.nationalacademies.org/our-work/responsible-computing-research-ethics-and-governance-of-computing-research-and-its-applications).
 
-(Note: This bio has no personal pronouns! From [amandastent.net](https://amandastent.net).)
+(_UC Chairs' note: This bio has no personal pronouns! From [amandastent.net](https://amandastent.net)._)
 
 ## Keynote Speaker: Patricia Ord&oacute;&ntilde;ez
 <img height="200" alt="Photo" src="https://ccom.uprrp.edu/~pordonez/images/PattiMadura.jpg">  
