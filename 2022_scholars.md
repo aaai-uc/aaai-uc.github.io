@@ -10,7 +10,7 @@ February 22 - March 1, 2022
 
 <!--See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI-22 UC pitch videos is [available here](https://www.youtube.com/watch?v=dXsupAQAKgs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8), and links to individual videos accompany each scholar's profile, below. -->
 
-See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI-22 UC pitch videos is [available here](https://www.youtube.com/playlist?list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY), and links to individual videos accompany each scholar's profile, below.
+See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI-22 UC scholars' research pitch videos is [available here](https://www.youtube.com/playlist?list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY), and links to individual videos accompany each scholar's profile, below.
 
 
 # Meet our scholars!
