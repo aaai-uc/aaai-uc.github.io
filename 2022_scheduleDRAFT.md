@@ -28,56 +28,56 @@ February 22 - March 1, 2022
 </thead>
  <tbody>
   <tr>
-   <td>8:00 - 8:15
+   <td>7:30 - 7:45
    </td>
    <td>Opening remarks
    </td>
   </tr>
   <tr>
-   <td>8:15 - 9:30
+   <td>7:45 - 9:00
    </td>
    <td>
     <a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a> 
    </td>
   </tr>
   <tr>
-   <td>9:30 - 9:45
+   <td>9:00 - 9:15
    </td>
    <td>Break
    </td>
   </tr>
   <tr>
-   <td>9:45 - 11:00
+   <td>9:15 - 10:30
    </td>
    <td>UC Scholar Mixer
    </td>
   </tr>
   <tr>
-   <td>11:00 - 12:00
+   <td>10:30 - 12:30
    </td>
    <td>Lunch Break
    </td>
   </tr>
   <tr>
-   <td>12:10 - 13:30
+   <td>12:30 - 14:00
    </td>
    <td><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a> 
    </td>
   </tr>
   <tr>
-   <td>13:30 - 13:45
+   <td>14:00 - 14:15
    </td>
    <td>Break
    </td>
   </tr>
   <tr>
-   <td>13:45 - 14:30
+   <td>14:15 - 15:00
    </td>
    <td>Grad Student Panel: What is grad school REALLY like?
    </td>
   </tr>
   <tr>
-   <td>14:30 - 15:45
+   <td>15:00 - 16:00
    </td>
    <td>UC Poster Practice Exercise
    </td>
