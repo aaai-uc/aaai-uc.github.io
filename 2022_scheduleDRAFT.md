@@ -137,6 +137,7 @@ Dr. Patricia Ordóñez is an Associate Professor in the Computer Science faculty
 Thank you to our speakers, faculty panelists, and graduate student panelists and mentors! (TENTATIVE / INCOMPLETE LISTS BELOW)
 
 ## Faculty Panelists
+Judy Goldsmith, University of Kentucky
 Patricia Ordóñez, University of Puerto Rico Río Piedras  
 Jorge Ortiz, Rutgers University   
 Amanda Stent, Colby College  
