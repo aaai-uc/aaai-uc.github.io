@@ -137,13 +137,15 @@ Dr. Patricia Ordóñez is an Associate Professor in the Computer Science faculty
 Thank you to our speakers, faculty panelists, and graduate student panelists and mentors! (TENTATIVE / INCOMPLETE LISTS BELOW)
 
 ## Faculty Panelists
-Judy Goldsmith, University of Kentucky
+Judy Goldsmith, University of Kentucky  
+Elias Khalil, University of Toronto
 Patricia Ordóñez, University of Puerto Rico Río Piedras  
 Jorge Ortiz, Rutgers University   
 Amanda Stent, Colby College  
 
 ## Graduate Student Panelists
 Akanksha Atrey, University of Massachusetts Amherst  
+Laura Biester, University of Michigan  
 Jiaoyang Li, University of Southern California   
 Thao Nguyen, Brown University  
 
