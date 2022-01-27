@@ -139,6 +139,7 @@ Thank you to our speakers, faculty panelists, and graduate student panelists and
 ## Faculty Panelists
 Judy Goldsmith, University of Kentucky  
 Elias Khalil, University of Toronto  
+Pat Morreale, Kean University  
 Patricia Ordóñez, University of Puerto Rico Río Piedras  
 Jorge Ortiz, Rutgers University   
 Amanda Stent, Colby College  
