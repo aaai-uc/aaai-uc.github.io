@@ -139,11 +139,11 @@ Thank you to our speakers, faculty panelists, and graduate student panelists and
 ## Faculty Panelists
 Judy Goldsmith, University of Kentucky  
 Elias Khalil, University of Toronto  
-Sanmi Koyejo, University of Illinois at Urbana-Champaign
+Sanmi Koyejo, University of Illinois at Urbana-Champaign  
 Pat Morreale, Kean University  
 Patricia Ordóñez, University of Puerto Rico Río Piedras  
 Jorge Ortiz, Rutgers University   
-Anita Raja, Hunter College, City University of New York
+Anita Raja, Hunter College, City University of New York  
 Amanda Stent, Colby College  
 
 ## Graduate Student Panelists
