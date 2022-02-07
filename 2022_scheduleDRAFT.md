@@ -28,16 +28,17 @@ February 22 - March 1, 2022
 </thead>
  <tbody>
   <tr>
-   <td>7:30 - 7:45
+   <td>7:30 - 7:40
    </td>
    <td>Opening remarks
    </td>
   </tr>
   <tr>
-   <td>7:45 - 9:00
+   <td>7:40 - 9:00
    </td>
    <td>
-    <a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a> 
+    <a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a></br></br>  
+    Faculty Panel Q&A
    </td>
   </tr>
   <tr>
@@ -61,7 +62,8 @@ February 22 - March 1, 2022
   <tr>
    <td>12:30 - 14:00
    </td>
-   <td><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a> 
+   <td><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a></br>&nbsp;&nbsp;
+   Faculty Panel Q&A
    </td>
   </tr>
   <tr>
@@ -83,13 +85,13 @@ February 22 - March 1, 2022
    </td>
   </tr>
   <tr>
-   <td>16:00 - 16:45
+   <td>16:00 - 17:00
    </td>
    <td>UC Poster Session
    </td>
   </tr>
   <tr>
-   <td>16:50 - 17:00
+   <td>17:00
    </td>
    <td>Closing remarks
    </td>
@@ -134,10 +136,11 @@ Dr. Patricia Ordóñez is an Associate Professor in the Computer Science faculty
 
 # Thanks
 
-Thank you to our speakers, faculty panelists, and graduate student panelists and mentors! (TENTATIVE / INCOMPLETE LISTS BELOW)
+Thank you to our speakers, faculty panelists, and graduate student panelists and mentors! 
 
 ## Faculty Panelists
 Judy Goldsmith, University of Kentucky  
+Odest Chadwicke Jenkins, University of Michigan  
 Elias Khalil, University of Toronto  
 Sanmi Koyejo, University of Illinois at Urbana-Champaign  
 Pat Morreale, Kean University  
