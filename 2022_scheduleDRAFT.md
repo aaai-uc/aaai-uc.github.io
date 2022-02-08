@@ -27,14 +27,8 @@ February 22 - March 1, 2022
 </tr>
 </thead>
  <tbody>
-  <!--<tr>
-   <td>7:30 - 7:40
-   </td>
-   <td>Opening remarks
-   </td>
-  </tr>-->
   <tr>
-   <td>7:30 - 9:00
+   <td>07:30 - 09:00
    </td>
    <td><ul>
     <li>Opening remarks</li>
@@ -43,13 +37,13 @@ February 22 - March 1, 2022
    </td>
   </tr>
   <tr>
-   <td>9:00 - 9:15
+   <td>09:00 - 09:15
    </td>
    <td>Break
    </td>
   </tr>
   <tr>
-   <td>9:15 - 10:30
+   <td>09:15 - 10:30
    </td>
    <td>UC Scholar Mixer (<b>UC cohort only</b>)
    </td>
