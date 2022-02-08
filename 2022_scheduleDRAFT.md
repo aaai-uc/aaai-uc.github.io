@@ -30,10 +30,10 @@ February 22 - March 1, 2022
   <tr>
    <td>07:30 - 09:00
    </td>
-   <td><ul>
+   <td>
     <li>Opening remarks</li>
     <li><a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a></li><li>
-    Faculty Panel Q&A</li></ul>
+    Faculty Panel Q&A</li>
    </td>
   </tr>
   <tr>
@@ -57,8 +57,8 @@ February 22 - March 1, 2022
   <tr>
    <td>12:30 - 14:00
    </td>
-   <td><ul><li><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a></li><li>
-    Faculty Panel Q&A</li></ul>
+   <td><li><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a></li><li>
+    Faculty Panel Q&A</li>
    </td>
   </tr>
   <tr>
