@@ -45,7 +45,7 @@ February 22 - March 1, 2022
   <tr>
    <td>09:15 - 10:30
    </td>
-   <td>UC Scholar Mixer (<s>UC cohort only</s>)
+   <td>UC Scholar Mixer (<strong>UC cohort only</strong>)
    </td>
   </tr>
   <tr>
@@ -76,13 +76,13 @@ February 22 - March 1, 2022
   <tr>
    <td>15:00 - 16:00
    </td>
-   <td>UC Poster Practice Exercise (<s>UC cohort only</s>)
+   <td>UC Poster Practice Exercise (<strong>UC cohort only</strong>)
    </td>
   </tr>
   <tr>
    <td>16:00 - 17:00
    </td>
-   <td>UC Poster Session (<s>by invitation only</s>)
+   <td>UC Poster Session (<strong>by invitation only</strong>)
    </td>
   </tr>
   <tr>
