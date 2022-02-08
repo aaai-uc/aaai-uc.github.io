@@ -27,18 +27,19 @@ February 22 - March 1, 2022
 </tr>
 </thead>
  <tbody>
-  <tr>
+  <!--<tr>
    <td>7:30 - 7:40
    </td>
    <td>Opening remarks
    </td>
-  </tr>
+  </tr>-->
   <tr>
-   <td>7:40 - 9:00
+   <td>7:30 - 9:00
    </td>
    <td>
-    <a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a><br /><br />  
-    Faculty Panel Q&A
+    <li>Opening remarks</li>
+    <li><a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a></li><li>
+    Faculty Panel Q&A</li>
    </td>
   </tr>
   <tr>
@@ -50,7 +51,7 @@ February 22 - March 1, 2022
   <tr>
    <td>9:15 - 10:30
    </td>
-   <td>UC Scholar Mixer
+   <td>UC Scholar Mixer (<b>UC cohort only</b>)
    </td>
   </tr>
   <tr>
@@ -62,8 +63,8 @@ February 22 - March 1, 2022
   <tr>
    <td>12:30 - 14:00
    </td>
-   <td><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a><br />&nbsp;&nbsp;
-   Faculty Panel Q&A
+   <td><li><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a></li><li>
+    Faculty Panel Q&A</li>
    </td>
   </tr>
   <tr>
@@ -75,23 +76,23 @@ February 22 - March 1, 2022
   <tr>
    <td>14:15 - 15:00
    </td>
-   <td>Grad Student Panel: What is grad school REALLY like?
+   <td>Grad Student Panel: What is grad school REALLY like? (undergraduate audience only)
    </td>
   </tr>
   <tr>
    <td>15:00 - 16:00
    </td>
-   <td>UC Poster Practice Exercise
+   <td>UC Poster Practice Exercise (<b>UC cohort only</b>)
    </td>
   </tr>
   <tr>
    <td>16:00 - 17:00
    </td>
-   <td>UC Poster Session
+   <td>UC Poster Session (<b>by invitation only</b>)
    </td>
   </tr>
   <tr>
-   <td>17:00
+   <td>17:00 - 17:10
    </td>
    <td>Closing remarks
    </td>
