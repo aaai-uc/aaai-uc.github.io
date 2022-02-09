@@ -150,6 +150,7 @@ Laura Biester, University of Michigan
 De’Aira Bryant, Georgia Tech  
 Jiaoyang Li, University of Southern California   
 Thao Nguyen, Brown University  
+
 <!--
 ## Graduate Student Mentors
 Akanksha Atrey, University of Massachusetts Amherst  
