@@ -22,7 +22,7 @@ February 22 - March 1, 2022
 <table>
  <thead>
 <tr>
-<th width="125">Time (PST) </th>
+<th width="120">Time (PST) </th>
 <th>Event</th>
 </tr>
 </thead>
