@@ -131,7 +131,7 @@ Dr. Patricia Ordóñez is an Associate Professor in the Computer Science faculty
 
 # Thanks
 
-Thank you to our speakers, faculty panelists, and graduate student panelists and mentors! 
+Thank you to our speakers, faculty panelists, and graduate student panelists!<!-- and mentors! -->  
 
 ## Faculty Panelists
 Judy Goldsmith, University of Kentucky  
@@ -150,12 +150,12 @@ Laura Biester, University of Michigan
 De’Aira Bryant, Georgia Tech  
 Jiaoyang Li, University of Southern California   
 Thao Nguyen, Brown University  
-
+<!--
 ## Graduate Student Mentors
 Akanksha Atrey, University of Massachusetts Amherst  
 Laura Biester, University of Michigan  
 De’Aira Bryant, Georgia Tech  
 Jiaoyang Li, University of Southern California  
 Thao Nguyen, Brown University  
-
+-->
 
