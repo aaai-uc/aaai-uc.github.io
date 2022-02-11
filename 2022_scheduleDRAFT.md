@@ -33,7 +33,7 @@ February 22 - March 1, 2022
    <td>
     <li>Opening remarks</li>
     <li><a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a></li><li>
-    Faculty Panel Q&A</li>
+    Faculty / Industry Panel Q&A</li>
    </td>
   </tr>
   <tr>
@@ -131,9 +131,10 @@ Dr. Patricia Ordóñez is an Associate Professor in the Computer Science faculty
 
 # Thanks
 
-Thank you to our speakers, faculty panelists, and graduate student panelists and mentors! 
+Thank you to our speakers, faculty and industry panelists, and graduate student panelists! 
 
-## Faculty Panelists
+## Faculty / Industry Panelists
+Mark Díaz, Google  
 Judy Goldsmith, University of Kentucky  
 Odest Chadwicke Jenkins, University of Michigan  
 Elias Khalil, University of Toronto  
@@ -151,11 +152,12 @@ De’Aira Bryant, Georgia Tech
 Jiaoyang Li, University of Southern California   
 Thao Nguyen, Brown University  
 
+<!--
 ## Graduate Student Mentors
 Akanksha Atrey, University of Massachusetts Amherst  
 Laura Biester, University of Michigan  
 De’Aira Bryant, Georgia Tech  
 Jiaoyang Li, University of Southern California  
 Thao Nguyen, Brown University  
-
+-->
 
