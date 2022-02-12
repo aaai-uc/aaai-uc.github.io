@@ -32,7 +32,7 @@ February 22 - March 1, 2022
    </td>
    <td>
     <li>Opening remarks</li>
-    <li><a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://https://amandastent.net/">Dr. Amanda Stent</a></li><li>
+    <li><a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://amandastent.net/">Dr. Amanda Stent</a></li><li>
     Faculty Panel Q&A</li>
    </td>
   </tr>
