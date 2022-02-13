@@ -1,6 +1,7 @@
 # AAAI Undergraduate Consortium (AAAI-UC)
 
 ## Updates
+- [The UC 2022 Program is posted!](./2022_schedule.md)  
 - [Meet our UC-22 scholars!](https://aaai-uc.github.io/2022_scholars.html)
 - Thank you to the [UC-22 Program Committee!](https://aaai-uc.github.io/2022_programCommittee.html)
 - If you are interested in joining our PC (reviewing UC applications), please complete [this form](https://forms.gle/GPYEoBUT42C5eZ3CA).
