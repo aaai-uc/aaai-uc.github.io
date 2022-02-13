@@ -28,7 +28,7 @@ February 22 - March 1, 2022
 </thead>
  <tbody>
   <tr>
-   <td width="150">07:30 - 09:00
+   <td width="120">07:30 - 09:00
    </td>
    <td>
     <li>Opening remarks</li>
@@ -57,7 +57,7 @@ February 22 - March 1, 2022
   <tr>
    <td>12:30 - 14:00
    </td>
-   <td><li><a href="https://aaai-uc.github.io/2021_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a></li><li>
+   <td><li><a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-patricia-ordonez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a></li><li>
     Faculty Panel Q&A</li>
    </td>
   </tr>
