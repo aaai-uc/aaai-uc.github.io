@@ -143,6 +143,7 @@ Pat Morreale, Kean University
 Patricia Ordóñez, University of Puerto Rico Río Piedras  
 Jorge Ortiz, Rutgers University   
 Anita Raja, Hunter College, City University of New York  
+Pablo Rivas, Baylor University  
 Amanda Stent, Colby College  
 
 ## Graduate Student Panelists
