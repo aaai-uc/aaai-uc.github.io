@@ -17,7 +17,7 @@ February 22 - March 1, 2022
 ## February 22, 2022
 
 
-## Schedule at-a-glance [TENTATIVE]
+## Schedule at-a-glance
 
 <table>
  <thead>
