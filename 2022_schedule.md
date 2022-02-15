@@ -139,7 +139,7 @@ Judy Goldsmith, University of Kentucky
 Odest Chadwicke Jenkins, University of Michigan  
 Elias Khalil, University of Toronto  
 Sanmi Koyejo, University of Illinois at Urbana-Champaign  
-Pat Morreale, Kean University  
+Patricia Morreale, Kean University  
 Patricia Ordóñez, University of Puerto Rico Río Piedras  
 Jorge Ortiz, Rutgers University   
 Anita Raja, Hunter College, City University of New York  
