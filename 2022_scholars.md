@@ -19,7 +19,8 @@ See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI
 <img width="200" alt="Photo" src="./2022/photos/Natalie.jpg"> <br>
 Viterbi School of Engineering <br>
 University of Southern California  <br>
-[3-minute pitch video](https://www.youtube.com/watch?v=eXi04YEw7jI&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=8)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=-h1VWOP6h5k&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=8)  <br>
+
 
 Natalie is a junior at the University of Southern California studying Computer Science. Her research interests include multi agent systems and machine learning foundations. She works in the Automatic Coordination of Teams Lab, mentored by Eric Ewing and Nora Ayanian. 
 
@@ -100,7 +101,7 @@ After criminal recidivism or hiring machine learning models have inflicted harm,
 Biomedical Engineering  <br>
 Duquesne University  <br>
 [https://www.linkedin.com/in/willa-potosnak-4679b119a/](https://www.linkedin.com/in/willa-potosnak-4679b119a/)  <br>
-[3-minute pitch video](https://www.youtube.com/watch?v=TmEv2fgSs6c&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=4)  <br>
+[3-minute pitch video](https://www.youtube.com/watch?v=lz4nqmnsErs&list=PLIsth1r16Z2NYx6tkRzGgW9wP5vQDrPcY&index=4)  <br>
 
 Willa Potosnak is a senior biomedical engineering major at Duquesne University. She works in the Auton Lab at Carnegie Mellon University under the mentorship of Dr. Artur Dubrawski and Dr. Kyle Miller. She is currently researching methods to improve machine learning (ML) model integrity and interpretability with the objective of ensuring the reliable implementation of artificial intelligence (AI) in practice. Among her research goals is to improve ML methods that are used to aid diagnostics and early event detection. She is also interested in research that supports protecting data privacy and security to promote distributed frameworks which can facilitate knowledge transfer between institutions. After obtaining her undergraduate degree, she intends to obtain a doctoral degree in ML research aimed at improving AI systems to enhance people’s quality of life.
 
