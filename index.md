@@ -16,7 +16,7 @@ co-chair and OC!
 
 
 ## AAAI-23 Undergraduate Consortium
-UC-23 instructions are live on our [AAAI-UC 2022](./2023.md) page.  
+UC-23 instructions are live on our [AAAI-UC 2023](./2023.md) page.  
 
 ## Previous AAAI-UCs
 
