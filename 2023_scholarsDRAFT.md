@@ -14,7 +14,7 @@ February 7 - February 14, 2023
 # Meet our scholars!
 
 ## Kaihua (William) Hou
-<img width="200" alt="Photo" src="./2022/photos/Natalie.jpg"> <br>
+<img width="200" alt="Photo" src="./2023/photos/Hou.jpeg"> <br>
 Electrical Engineering and Computer Science Department <br>
 Johns Hopkins University <br>
 
