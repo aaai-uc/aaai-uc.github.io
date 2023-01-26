@@ -73,16 +73,17 @@ Anna is a junior at Georgetown University pursuing dual majors in linguistics an
 ### Abstract 
 While the ability to detect harmful artificial online activity has improved, identifying and classifying harmful human groups remains a difficult task. This research proposal builds on Ashokkumar and Pennebaker’s (2022) use of LIWC to detect social media group membership, further arguing that n-gram analysis and sentiment classification of in-group neologisms could be a useful way of proactively identifying groups at risk of violence. If successful, this project could be a useful tool for law enforcement, as it would provide a real-time view of potential threats with fewer privacy trade-offs.
 
-## Breanne Crockett
-<img width="200" alt="Photo" src="./2022/photos/Breanne.jpg"> <br>
-Electrical Engineering and Computer Science Department  <br>
-University of Toledo  <br>
+## Supriti Vijay
+<img width="200" alt="Photo" src="./2023/photos/Supriti1.jpg"> <br>
+Department of Computer Science <br>
+Manipal Academy of Higher Education <br>
+[https://supritivijay.github.io/](https://supritivijay.github.io/) <br/> 
 <!--[3-min pitch video](https://www.youtube.com/watch?v=qVO8cSIbMaY&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=9)  <br>-->
 
-Breanne Crockett is a senior undergraduate at the University of Toledo. She works in the Interdisciplinary Data Engineering And Science (IDEAS) lab, using machine learning to investigate students’ interaction with digital textbooks. She is passionate about improving education and accessibility of knowledge through machine learning. 
+Supriti is a senior at the Manipal Academy of Education, pursuing her bachelor's degree in Computer science and Engineering. Her research interests lie in Natural Language Processing, computational social science, Explainable AI, and Social Networks. She is passionate about working on NLP for social good, making models fairer, accountable, transparent, and ethical. She is a recipient of the Adobe India Women-In-Tech Scholarship and has also been awarded the Mitacs Globalink Research Internship. Beyond research, she is motivated to empower and mentor girls to build their careers in STEM. She also runs a non-profit, Felasa, aiming to create awareness among women about legal and safety laws around them and also helps connect lawyers to victims of gender-based crimes. She plans to pursue a graduate degree in Computer Science specializing in NLP.
 
 ### Abstract 
-This research explores how to measure and predict student’s mental workload when using digital interactive textbooks. The current work focuses on analysis of clickstream data from the textbook in search of viewing patterns among students. It was found that students typically fit one of three viewing patterns. These patterns can be used in further research to inform creation of new interactive texts for improved student success.
+The presence of implicit bias in the text corpora is one of the most prominent issues while training any downstream NLP task. The exhibition of these gender biases emphasizes stereotypes prevalent in the real world onto models and causes drastic repercussions among those involved. Therefore, gender bias mitigation is an integral aspect of standard NLP tasks. Ideally, these models must be debiased before deployment. However, data augmentation is an expensive task for large corpora, while prior work on reconstructing word embeddings for debiasing may not always be conducive to performance reduction. Therefore, this work proposes training a semi-supervised regularizing loss function for debiasing large language models (LLMs). Integrating a regularizing loss function in the training phase, a method yet to be widely explored, would help us examine its effects on mitigating bias. This work also aims to create an easy-to-use library for debiasing to allow streamlined integration into most high-performance LLMs, contributing towards making models more fair and equitable.
 
 ## Amelia Lee Dogan
 <img width="200" alt="Photo" src="./2022/photos/Amelia.JPG"> <br>
