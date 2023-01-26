@@ -49,16 +49,17 @@ I am Aman Priyanshu, a senior at Manipal Institute of Technology, currently purs
 ### Abstract 
 Deep Learning has seen expansive growth over the last decade. Especially within fields that entail learning sensitive information, like Healthcare, Legal-Proceedings, and even Social-Analytics. A lot of these domains have seen decentralization and private learning methods such as Federated Learning being adopted. However, ensuring Fairness within FL settings is difficult due to inequitable demographic representation. This work aims at incorporating disparate retention through superimposed supermasks to understand private attribute demographic association. It leverages subnetwork identification to detect attributes associated with demographic identities for bias mitigation. By employing continual-learning paradigms, we ensure performance retention alongside Fairness in a disproportionate representation setting.
 
-## Georgia Channing
-<img width="200" alt="Photo" src="./2022/photos/Georgia.jpg"> <br>
-Tickle College of Engineering  <br>
-University of Tennessee, Knoxville <br>
+## Khushi Bhansali
+<img width="200" alt="Photo" src="./2023/photos/Khushi1.jpg"> <br>
+CMNS  <br>
+University of Maryland College Park <br>
+[https://khushi-bhansali.weebly.com](https://khushi-bhansali.weebly.com) <br/> 
 <!--[3-min pitch video](https://www.youtube.com/watch?v=f-YSEJj2GpU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=5)  <br>-->
 
-Georgia Channing is a senior in Computer Science at the University of Tennessee, Knoxville (UTK). She currently researches high performance computing with Bayesian optimization techniques under Dr. Michela Taufer and runs a non-profit, the Algorithms Awareness Project, dedicated to raising awareness of data ethics and machine learning fairness. She serves as the Mentorship Director for UTK Systers and as a Program Manager for Hack4Impact, for which she manages the development of the Appalachian Community Fund resource database. She plans to pursue a graduate degree in Cognitive Science. 
+Khushi Bhansali is pursuing her Bachelor of Science from the University of Maryland College Park. She is majoring in Computer Science with a concentration in Machine Learning and has received dean's list honorable mention every semester of her undergraduate studies. She is currently doing research for the Maryland Center for Blended Reality and has interned at Goldman Sachs, US FDA, and Johns Hopkins Applied Physics Lab. Outside of academics, she is the VP of Finance for a charity club named One for the World, a teaching instructor for the Maryland Center for Women In Computing, and a modeling editor for Chameleon, a university-led magazine for people of color. 
 
 ### Abstract 
-Hyperspectral imaging is used for a wide range of tasks from medical diagnostics to crop monitoring, but traditional imagers are prohibitively expensive for widespread use. This research strives to democratize hyperspectral imaging by using machine learning to reconstruct hyperspectral volumes from snapshot imagers. I propose a tunable lens with varying amounts of defocus paired with 31-channel spectral filter array mounted on a CMOS camera. These images are then fed into a reconstruction network that aims to recover the full 31-channel hyperspectral volume from a few encoded images with different amounts of defocus. 
+Under the guidance of Dr. Amitabh Varshney, I have been capturing motion sensor data from the AR/VR headset. We discovered that heart and chest vibrations induce an involuntary movement of the head which can be used to infer heart rate. Body-signal side-channel adversaries could exploit this data to intelligently learn breathing patterns to detect arrhythmia or other heart conditions without consent. Deep learning algorithms can detect these privacy threats without relying on previous or common attack patterns. They recognize the presence of bad actors while preserving the privacy of the training dataset. Thus, I aspire to develop signal scrambling algorithms using privacy-preserving deep neural networks because of their high efficiency in data anonymization and ability to protect people from the new privacy risks that AR/VR systems pose.
 
 ## Hannah M. Claus
 <img width="200" alt="Photo" src="./2022/photos/Hannah.png"> <br>
