@@ -97,17 +97,17 @@ Pratinav Seth is a junior at Manipal Institute of Technology pursuing a Bachelor
 ### Abstract 
 With the advent of technology and increased availability of resources, many applications have deployed AI-based models in some form or shape. However, ensuring that these systems behave responsibly and are trustworthy is critical. The uncertainty estimation is essential to trust confident model predictions for screening automation and referring uncertain cases for manual intervention of a domain expert. Previous works involve building a completely different architecture which is typically costly when deployed. Here we aim to develop a model-agnostic solution to monitor the trustworthiness and confidence of the model predictions, which can be incorporated with currently deployed models and signal a failure in case of low confidence. The impact of this work will be immense and will change the outlook and increase the confidence of everyone towards AI. It can be impactful in areas such as  healthcare, where it would significantly aid in risk appraisal, lowering the possibility of potential misdiagnosis.
 
-## Willa Potosnak
-<img width="200" alt="Photo" src="./2022/photos/Willa.jpg"> <br>
-Biomedical Engineering  <br>
-Duquesne University  <br>
+## Nora Lewis
+<img width="200" alt="Photo" src="./2023/photos/Nora1.jpg"> <br>
+School of Public Affairs and Department of Computer Science   <br>
+American University   <br>
 [https://www.linkedin.com/in/willa-potosnak-4679b119a/](https://www.linkedin.com/in/willa-potosnak-4679b119a/)  <br>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=drKqN1h3VVE&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=13)  <br>-->
 
-Willa Potosnak is a senior biomedical engineering major at Duquesne University. She works in the Auton Lab at Carnegie Mellon University under the mentorship of Dr. Artur Dubrawski and Dr. Kyle Miller. She is currently researching methods to improve machine learning (ML) model integrity and interpretability with the objective of ensuring the reliable implementation of artificial intelligence (AI) in practice. Among her research goals is to improve ML methods that are used to aid diagnostics and early event detection. She is also interested in research that supports protecting data privacy and security to promote distributed frameworks which can facilitate knowledge transfer between institutions. After obtaining her undergraduate degree, she intends to obtain a doctoral degree in ML research aimed at improving AI systems to enhance people’s quality of life.
+Nora Lewis is a junior at American University studying Data Science in Justice, Law, and Criminology and Computer Science. She is also in the combined BS/MS program for Data Science with a concentration in CS. At American, she works as a teaching assistant in the Computer Science department and as a research assistant at the Polarization and Extremism Research and Innovation Lab (PERIL). In her free time, she likes to read, listen to music (specifically Taylor Swift), and exploring DC! 
 
 ### Abstract 
-Transferring expertise and knowledge across sites has been demonstrated to improve the quality of practices and outcomes across sites. However, understanding the subpopulations for whom knowledge transfers would yield potential benefit is also necessary as not all externally derived knowledge may be applicable to an entire population of interest. We propose an algorithmic rule selection approach which aims to select a short list of human-interpretable rules that reliably identify subpopulation beneficiaries of knowledge transfers in the form of machine learning risk models. Our experimental results, obtained with two intensive care monitoring datasets, demonstrate the potential utility of the proposed method in practice.
+Dogwhistle is a type of coded language that primes an in-group to respond in a certain way, while the general population ignores it. These coded words fly under the radar of most social media terms of services, even though many extremist groups use these as a call to arms, because the words themselves are not seen as harmful. Being able to recognize the use of dogwhistles in social media posts would help to limit the outreach of extremist groups and harmful rhetoric and help prevent possible indoctrination. Using NLP and the Anti-Defamation League’s Hate on Display database, we trained a ML model to pick up on these dogwhistles in social media posts. Dogwhistles work best when the general public doesn’t understand them- so bringing them into the spotlight could render them useless.
 
 ## Wes Robbins 
 <img width="200" alt="Photo" src="./2022/photos/Wes.jpg"> <br>
