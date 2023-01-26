@@ -7,22 +7,23 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence
 February 7 - February 14, 2023
 
 
-# AAAI-22 Undergraduate Consortium 
+# AAAI-23 Undergraduate Consortium 
 
 <!--See our AAAI-22 scholars talk about their research! The youtube playlist of AAAI-22 UC pitch videos is [available here](https://www.youtube.com/watch?v=dXsupAQAKgs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8), and links to individual videos accompany each scholar's profile, below. -->
 
 # Meet our scholars!
 
-## Natalie Abreu
+## Kaihua (William) Hou
 <img width="200" alt="Photo" src="./2022/photos/Natalie.jpg"> <br>
-Viterbi School of Engineering <br>
-University of Southern California  <br>
+Electrical Engineering and Computer Science Department <br>
+Johns Hopkins University <br>
+
 <!--[3-min pitch video](https://www.youtube.com/watch?v=b6_19zPghts&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=12)  <br>-->
 
-Natalie is a junior at the University of Southern California studying Computer Science. Her research interests include multi agent systems and machine learning foundations. She works in the Automatic Coordination of Teams Lab, mentored by Eric Ewing and Nora Ayanian. 
+Kaihua (William) Hou is an undergraduate student studying Electrical Engineering and Computer Science at Johns Hopkins University. He works at the JHU Malone Center for Engineering in Healthcare under the mentorship of Dr. Mathias Unberath and Dr. Jithin Yohannan. He is also a visiting research assistant at the Massachusetts Institute of Technology, advised by Dr. John Guttag. His research interests lie at the intersection of machine learning, equitable healthcare, and clinical decision-making.
 
 ### Abstract 
-Multi Agent Path Finding (MAPF) is widely needed to coordinate real-world robotic systems. New approaches turn to deep learning to solve MAPF instances, primarily using reinforcement learning, which has high computational costs. We propose a supervised learning approach to solve MAPF instances using a smaller, less costly model.
+Visual fields (VF) and optical coherence tomography (OCT) are two commonly used eye exams to diagnose glaucoma and track its worsening. However, two clinicians each examining a different test of the same patient may arrive at contradicting diagnoses. This is undesirable since neither test can be used as a sole objective standard for disease assessment, and the choice of test can heavily depend on non-clinical reasons (e.g. cost or availability) instead of the patient’s conditions. To help clinicians obtain the progressive trends of one eye exam given a time series of another, this project uses two gated Transformers (GTN): one Transformer learns changes in the same input feature across time, while the other one learns correlations between different input features at the same time stamp. This model significantly outperformed prior methods, and the feature importance of the GTN was investigated through Shapely analysis.
 
 ## Vishakha Agrawal
 <img width="200" alt="Photo" src="./2022/photos/Vishakha.jpg"> <br>
