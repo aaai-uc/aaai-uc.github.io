@@ -119,49 +119,15 @@ Howard University  <br>
 Teanna Barrett (she/her) is a senior Computer Science major and Philosophy minor from Howard University. Her research aims to interrogate the design, deployment, and evaluation of Machine Learning systems to understand contemporary anti-blackness and inform liberatory technology. She currently works with the Affective Biometrics Lab under the direction of Dr. Gloria Washington at Howard University and the Social Futures Lab under the direction of Dr. Amy Zhang at the University of Washington. 
 
 ### Abstract 
-Proprietary Machine Learning (ML) technology embedded in products such as PredPol and COMPAS has been found to target Black and Brown people more than White people. Thus, the material inequities within the United States policing system are replicated in ML models. However, there is another systemic disparity that is not well-researched in the ML community, skin tone stratification. This research study aims to investigate skin tone bias in criminal justice ML models and particular recidivism models. With manual skin tone annotations, recidivism scores disaggregated by skin tone categories can be analyzed for disparities. In addition, this project aims to further interrogate the relationship between ML and the prison industrial complex.
+The need for high-quality training data currently serves as a bottleneck for the development and deployment of machine learning models. Currently, manually generated data is often too expensive, and machine labeled data suffers from bias. One potential technique to satiate the growing data requirements by using artificial intelligence to generate synthetic data. One promising generative technique is known as Implicit Maximum Likelihood Estimation. This approach has yet to be applied to large-scale synthetic data generation, but it has advantages over other models. These include no mode collapse, vanishing gradients, or training instability. 
 
-## Eshika Saxena
-<img width="200" alt="Photo" src="./2022/photos/Eshika.jpg"> <br>
-School of Engineering and Applied Sciences  <br>
-Harvard University  <br>
+## Collin Coil
+<img width="200" alt="Photo" src="./2023/photos/Collin1.jpg"> <br>
+Department of Mathematics and Statistics  <br>
+American University  <br>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=aSiSyynzXeE&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=6)  <br>-->
 
-Eshika is a junior at Harvard majoring in Computer Science. She has worked on research involving the application of machine learning to radiology and disease diagnostics for the past five years. She is interested in the intersection of computer science, artificial intelligence, and medicine. In her free time, she enjoys dancing, baking, and traveling.
+Collin Coil is a junior studying pure mathematics and data science. He is engaged in applied statistics and data science research through the AU Center for Data Science, and he is interesting in pursuing a graduate program to focus on machine learning once he finishes his undergraduate degree. Outside of academics, Collin is a member of the American University Rowing Club and enjoys baking.
 
 ### Abstract 
 Breast reconstruction surgery requires extensive planning, usually with a CT scan that helps surgeons identify which vessels are suitable for harvest. Currently, there is no quantitative method for preoperative planning. In this work, we successfully develop a deep learning algorithm to segment the vessels within the region of interest for breast reconstruction. Ultimately, this information will be used to determine the optimal reconstructive method (choice of vessels, extent of the free flap/harvested tissue) to reduce intra- and postoperative complication rates. This approach has the ability to considerably shorten operating times and lower healthcare costs.
-
-## Abigail Swenor
-<img width="200" alt="Photo" src="./2022/photos/Abigail.jpg"> <br>
-Department of Computer Science  <br>
-University of Colorado - Colorado Springs  <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=O1Ud9TTHFtw&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=11)  <br>-->
-
-Abigail Swenor is an undergraduate student at the University of Colorado - Colorado Springs (UCCS) majoring in computer science with minors in mathematics, computer engineering, and philosophy. She is an undergraduate researcher for the Language Information and Computation Lab at UCCS. Her research interests are in Natural Language Processing (NLP) and Machine Learning, and she is currently working with defense methods for adversarial attacks on NLP models. Abigail plans to pursue a PhD in computer science after completing her undergraduate studies at UCCS. 
-
-### Abstract 
-Deep learning models have excelled in solving many difficult problems in Natural Language Processing (NLP), but it has been demonstrated that such models are susceptible to extensive vulnerabilities. We offer a solution to this vulnerability by using, during testing, random perturbations such as spelling correction if necessary, substitution by random synonym, or simply dropping the word. These perturbations are applied to random words in random sentences to defend NLP models against adversarial attacks. Our Random Perturbations Defense and Increased Randomness Defense methods are successful in returning attacked models to their original accuracy within statistical significance. 
-
-## Mira Welner
-<img width="200" alt="Photo" src="./2022/photos/Mira.jpg"> <br>
-Electrical and Computer Engineering  <br>
-University of California, Davis  <br>
-[burningsilicon.dev](https://burningsilicon.dev)  <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=3JrT1o2ICKs&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=3)  <br>-->
-
-I am a senior at UC Davis and hope to get a PhD in computer vision and robotics. For three years I have worked at prosthetics and robotics lab designing user studies to study the muscular motions of young children. For two years I have worked in a machine learning lab studying what factors will cause a study to translate from preclinical to clinical succesfully. Last summer I worked with Professor Aswin Sankarankarayanan studyign hyperspectral images at Carnegie Mellon University. I hope to apply machine learning and computer vision to space travel.
-
-### Abstract 
-We introduce a novel technique to identify the three primary materials in a scene as displayed by a hyperspectral image using unsupervised learning. We designed a modified autoencoder which compresses the hyperspectral image using convolutional neural networks, but unlike most autoencoders, decompresses the images using linear algebra. This ensures that unlike standard the latent features of the compressed images contain data understandable by humans. The linear algebra used for decompression relies on the properties of hyperspectral images. The resulting three spectra are intended to resemble the spectra of the actual materials in the scene but further research is necessary to determine if this is true. 
-
-## Funing Yang
-<img width="200" alt="Photo" src="./2022/photos/Funing.jpg"> <br>
-Department of Computer Science  <br>
-Wellesley College <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=TPHgUXT0Ink&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=2)  <br>-->
-
-Funing is a senior majoring in computer science and English at Wellesley College. Given her interdisciplinary background, Funing is passionate to apply her computational skills to the humanities and social sciences with a strong interest in Natural Language Processing and computational linguistics. Funing has served as a research assistant at MIT Digital Humanities Lab developing various dynamic web apps for humanities scholars’ research needs, and at MIT CSAIL to advance AI for K-12 education with interactive conversational AI modules, and at Wellesley College Cred Lab for data mining projects that analyze the credibility of news sources at scale with modeling. Funing is currently working on her senior thesis on NLP and computational narrative understanding, and hopes to pursue a career in AI research in the future.  
-
-### Abstract 
-My research presents an end-to-end pipeline for literary character identification and ongoing work for extracting and comparing representations for literary characters based on events and speech. The character identification pipeline involves a named entity recognition (NER) module, a coreference-resolution module, and a disambiguation module using both state-of-the-art neural network architectures and algorithmic approaches. Ongoing work compares event extraction pipeline,  a character speech extraction module, and novel evaluation and comparison metrics for dense vector representations for literary characters representations with case studies. The project contributes to computational narrative understanding through developing modular pipelines for automated character extraction as well as representation for literary texts that are generalizable to textual analysis in diverse domains.
