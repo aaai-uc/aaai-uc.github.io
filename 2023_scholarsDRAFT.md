@@ -29,8 +29,8 @@ Visual fields (VF) and optical coherence tomography (OCT) are two commonly used 
 <img width="200" alt="Photo" src="./2023/photos/Joseph.jpeg"> <br>
 College of Engineering and Architecture  <br>
 Howard University  <br>
-[https://vishakha-a.github.io/](https://vishakha-a.github.io) <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=0E2jPSKyNQk&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=7)  <br>-->
+<!--[https://vishakha-a.github.io/](https://vishakha-a.github.io) <br>
+[3-min pitch video](https://www.youtube.com/watch?v=0E2jPSKyNQk&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=7)  <br>-->
 
 Joseph Sankah is a sophomore undergraduate student majoring in computer science at Howard University. He is a software engineer and a tech enthusiast especially in the domain of Artificial Intelligence. He currently serves as an undergraduate researcher assistant in the Affective Biometrics Lab where he surveys and analyzes some select open-source Artificial Intelligence/machine learning biometric toolkits and tools used for face detection, recognition, and verification. To this end, I seeks to develop a vulnerability-and-testing protocol in a bid to investigate the robustness of these AI biometric models under the aegis of Dr. Saurav Aryal and Dr. Gloria Washington of the Affective Biometric Lab with support and funding from the Applied Laboratory Research for Intelligence and Security(ARLIS).
 
