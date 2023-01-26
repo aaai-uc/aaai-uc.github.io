@@ -15,7 +15,7 @@ February 7 - February 14, 2023
 
 ## Kaihua (William) Hou
 <img width="200" alt="Photo" src="./2023/photos/Hou.jpeg"> <br>
-Electrical Engineering and Computer Science Department <br>
+Electrical Engineering and Computer Science Departments <br>
 Johns Hopkins University <br>
 
 <!--[3-min pitch video](https://www.youtube.com/watch?v=b6_19zPghts&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=12)  <br>-->
@@ -25,17 +25,17 @@ Kaihua (William) Hou is an undergraduate student studying Electrical Engineering
 ### Abstract 
 Visual fields (VF) and optical coherence tomography (OCT) are two commonly used eye exams to diagnose glaucoma and track its worsening. However, two clinicians each examining a different test of the same patient may arrive at contradicting diagnoses. This is undesirable since neither test can be used as a sole objective standard for disease assessment, and the choice of test can heavily depend on non-clinical reasons (e.g. cost or availability) instead of the patient’s conditions. To help clinicians obtain the progressive trends of one eye exam given a time series of another, this project uses two gated Transformers (GTN): one Transformer learns changes in the same input feature across time, while the other one learns correlations between different input features at the same time stamp. This model significantly outperformed prior methods, and the feature importance of the GTN was investigated through Shapely analysis.
 
-## Vishakha Agrawal
-<img width="200" alt="Photo" src="./2022/photos/Vishakha.jpg"> <br>
-Department of Information Science and Engineering  <br>
-Dayananda Sagar College of Engineering  <br>
+## Joseph Sankah
+<img width="200" alt="Photo" src="./2023/photos/Joseph.jpeg"> <br>
+College of Engineering and Architecture  <br>
+Howard University  <br>
 [https://vishakha-a.github.io/](https://vishakha-a.github.io) <br>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=0E2jPSKyNQk&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=7)  <br>-->
 
-I am a senior undergraduate student majoring in information science. Upon the completion of my undergraduate degree, I plan to pursue a Ph.D. in computer science. My research interests and experiences lie within the broad area of trustworthy machine learning. More specifically, my research spans explainable, fair, and robust ML. I am also very interested in AI ethics and algorithmic justice. In my free time, I enjoy hiking, napping, and attending conferences.
+Joseph Sankah is a sophomore undergraduate student majoring in computer science at Howard University. He is a software engineer and a tech enthusiast especially in the domain of Artificial Intelligence. He currently serves as an undergraduate researcher assistant in the Affective Biometrics Lab where he surveys and analyzes some select open-source Artificial Intelligence/machine learning biometric toolkits and tools used for face detection, recognition, and verification. To this end, I seeks to develop a vulnerability-and-testing protocol in a bid to investigate the robustness of these AI biometric models under the aegis of Dr. Saurav Aryal and Dr. Gloria Washington of the Affective Biometric Lab with support and funding from the Applied Laboratory Research for Intelligence and Security(ARLIS).
 
 ### Abstract 
-In recent times, the social credit systems (SCS) and similar mass surveillance systems driven by AI have been deployed by the Chinese government in various regions. However, the discussions around the SCS are ambiguous, wherein, some people call them very controversial and a breach of human rights and other people say that the SCS and related surveillance systems are very similar in structure to the normal credit systems in the United States. In reality, though, there is no monolith and there are various different forms of mass surveillance and SCS deployed in different regions of China. In this paper, I review and analyse the different models of the SCS in different areas of China. Then, I compare how the different systems are upholding or breaching China’s own AI Ethics guidelines. This work will contribute to the broader goal of the AI community in addressing concerns about AI-driven decision-making that stems from the use cases of technologies such as computer vision and their potential for policing, social control, and surveillance by both state and corporate interests. 
+While the quest to evaluate the robustness of open-source Artificial Intelligence/machine learning biometric tools and toolkits seems to be fledging, the effectiveness in measuring their efficiency and robustness is almost always based on the outcome when original face images are fed into the AI biometrics models to the neglect of images with noisy features and varied brightness. Arguably, feeding our open-source AI biometrics models—in the domain of face detection, recognition, and verification—with a large pool of face datasets diversified with noisy features and varied brightness would go a long way to helping the AI biometric community to thoroughly survey and analyze these models in hopes of designing a methodology for their cyber-assessment and auditing. In that regard, the AI biometrics community would be able to test the robustness of the AI biometrics models against their vulnerabilities or weaknesses by comparing the actual outcome with their expected result.
 
 ## Kaleab Belete Belay
 <img width="200" alt="Photo" src="./2022/photos/Kaleab.jpg">  <br>
