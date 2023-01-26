@@ -37,16 +37,17 @@ Joseph Sankah is a sophomore undergraduate student majoring in computer science 
 ### Abstract 
 While the quest to evaluate the robustness of open-source Artificial Intelligence/machine learning biometric tools and toolkits seems to be fledging, the effectiveness in measuring their efficiency and robustness is almost always based on the outcome when original face images are fed into the AI biometrics models to the neglect of images with noisy features and varied brightness. Arguably, feeding our open-source AI biometrics models—in the domain of face detection, recognition, and verification—with a large pool of face datasets diversified with noisy features and varied brightness would go a long way to helping the AI biometric community to thoroughly survey and analyze these models in hopes of designing a methodology for their cyber-assessment and auditing. In that regard, the AI biometrics community would be able to test the robustness of the AI biometrics models against their vulnerabilities or weaknesses by comparing the actual outcome with their expected result.
 
-## Kaleab Belete Belay
-<img width="200" alt="Photo" src="./2022/photos/Kaleab.jpg">  <br>
-School of Information Technology and Engineering (SiTE) <br>
-Addis Ababa Institute of Technology  <br/>
+## Aman Priyanshu
+<img width="200" alt="Photo" src="./2023/photos/Aman.jpg">  <br>
+Department of Information and Communication Technology <br>
+Manipal Institute of Technology  <br/>
+[https://amanpriyanshu.github.io/](https://amanpriyanshu.github.io/)<br/>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=2UVLACiXnM0&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=14)  <br>-->
 
-My name is Kaleab and I am a Software Engineering major with a passion for AI and Robotics. I believe AI and Robotics can be applied in developing countries to accelerate progress towards development. Making AI more affordable for use in low-resource environments is also an area of interest I am interested in. 
+I am Aman Priyanshu, a senior at Manipal Institute of Technology, currently pursuing my undergrad in Information Technology. My research interests include Privacy Preserving Machine Learning, Explainable AI, Fairness, and AI for Social Good. I have recently focused on areas such as Reinforcement Learning, Causal Inference, Bias Mitigation, and Low-Resource Computations. I have had the opportunity to gain practical experience through internships, including working as a Privacy Engineer Intern at Eder Labs R&D Private Limited, a MITACS Research Intern at Concordia University, and as an Undergraduate Research Assistant at Manipal Institute of Technology. I have also had the opportunity to have several publications in the field of machine intelligence and security and have won awards for my projects. My explorations in technology are also extended to participating in hackathons, where I've applied my research to developing applications aimed at social good. I intend to pursue a doctoral after my undergrad. 
 
 ### Abstract 
-Deep Neural Networks have memory and computational demands that often render them difficult to use in low-resource environments. Also, highly dense networks are over-parameterized and thus prone to overfitting. To address these problems, we introduce a novel algorithm that prunes (sparsifies) weights from the network by taking into account their magnitudes and gradients taken against a validation dataset. Unlike existing pruning methods, our method does not require the network model to be retrained once initial training is completed. On the CIFAR-10 dataset, our method reduced the number of paramters of MobileNet by a factor of 9X, from 14 million to 1.5 million, with just a 3.8% drop in accuracy.
+Deep Learning has seen expansive growth over the last decade. Especially within fields that entail learning sensitive information, like Healthcare, Legal-Proceedings, and even Social-Analytics. A lot of these domains have seen decentralization and private learning methods such as Federated Learning being adopted. However, ensuring Fairness within FL settings is difficult due to inequitable demographic representation. This work aims at incorporating disparate retention through superimposed supermasks to understand private attribute demographic association. It leverages subnetwork identification to detect attributes associated with demographic identities for bias mitigation. By employing continual-learning paradigms, we ensure performance retention alongside Fairness in a disproportionate representation setting.
 
 ## Georgia Channing
 <img width="200" alt="Photo" src="./2022/photos/Georgia.jpg"> <br>
