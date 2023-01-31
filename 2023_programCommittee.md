@@ -24,6 +24,9 @@ The AAAI 2023 Undergraduate Consortium thanks all of the members of its program 
 - Jorge Ortiz, Rutgers, The State University of New Jersey
 - Brianna Posadas, Virginia Tech
 
+## Engagement Chair
+-Jason Grant, Villanova University
+
 ## Program Committee
 - Christopher	Amato, Northeastern University
 - Christoforos Mavrogianni, University of Washington
