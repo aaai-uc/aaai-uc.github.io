@@ -25,7 +25,7 @@ The AAAI 2023 Undergraduate Consortium thanks all of the members of its program 
 - Brianna Posadas, Virginia Tech
 
 ## Engagement Chair
--Jason Grant, Villanova University
+- Jason Grant, Villanova University
 
 ## Program Committee
 - Christopher	Amato, Northeastern University
