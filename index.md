@@ -3,8 +3,8 @@
 ## Updates
 - [AAAI-23 UC CfP is live at the AAAI site](https://aaai.org/Conferences/AAAI-23/undergraduate-consortium/)! 
 - [The UC 2022 Program is posted](./2022_schedule.md)  
-<!--- - [Meet our UC-22 scholars!](https://aaai-uc.github.io/2022_scholars.html)-->
 - [Meet our UC-23 scholars!](./2023_scholarsDRAFT.md)
+<!--- - [Meet our UC-22 scholars!](https://aaai-uc.github.io/2022_scholars.html)-->
 - Thank you to the [UC-22 Program Committee](https://aaai-uc.github.io/2022_programCommittee.html)
 <!--- If you are interested in joining our PC (reviewing UC applications), please complete [this form](https://forms.gle/GPYEoBUT42C5eZ3CA).-->
  <!--- [AAAI-22 Undergraduate Consortium submission site](https://cmt3.research.microsoft.com/AAAIUC2022) is now live! -->
