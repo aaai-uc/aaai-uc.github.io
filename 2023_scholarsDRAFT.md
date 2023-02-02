@@ -131,3 +131,14 @@ Collin Coil is a junior studying pure mathematics and data science. He is engage
 
 ### Abstract 
 Breast reconstruction surgery requires extensive planning, usually with a CT scan that helps surgeons identify which vessels are suitable for harvest. Currently, there is no quantitative method for preoperative planning. In this work, we successfully develop a deep learning algorithm to segment the vessels within the region of interest for breast reconstruction. Ultimately, this information will be used to determine the optimal reconstructive method (choice of vessels, extent of the free flap/harvested tissue) to reduce intra- and postoperative complication rates. This approach has the ability to considerably shorten operating times and lower healthcare costs.
+
+## Chi Phuong Huynh
+<!--<img width="200" alt="Photo" src="./2023/photos/Huynh.jpg"> <br>-->
+Computer Science  <br>
+Franklin and Marshall College  <br>
+<!--[3-min pitch video](https://www.youtube.com/watch?v=aSiSyynzXeE&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=6)  <br>-->
+
+Chi is an undergraduate student at Franklin & Marshall College, studying Computer Science and Applied Mathematics. Her research focuses on improving multi-modal machine learning algorithms and applying them to higher idea abstraction levels and data processing problems. She plans to continue work as a Ph.D. student, working on highly applicable AI and machine learning models. She is currently working with professor Brad McDanel (Franklin and Marshall College) on improving text-to-image transformers and professor Chen Sun (Brown University) on AI for computational creativity. 
+
+### Abstract 
+Transformers have become popular in the computer vision field due to their superior performance compared to CNNs, however, they are hindered by extensive training time. My project focuses on using input modifications method to improve performance of vision and multi-modal transformers and diffusers model. By patch removal or concatenating patches, we can improve the computational complexity of these machine learning models and help them be more robust at inference time. I investigated data sparsification and scheduling with vision transformers. As input images for transformers are split into patches, by cyclically scheduling the removal of the less important patches, we can reduce training time by 31% with minimal loss to accuracy. Recent papers have also showed that by stacking or masking patches, we can also reduce training time while not risking information loss. Applying similar ideas to text-to-image transformers and diffusion models can yield improved computational complexity and performance. 
