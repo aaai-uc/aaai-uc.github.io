@@ -133,7 +133,7 @@ Collin Coil is a junior studying pure mathematics and data science. He is engage
 Breast reconstruction surgery requires extensive planning, usually with a CT scan that helps surgeons identify which vessels are suitable for harvest. Currently, there is no quantitative method for preoperative planning. In this work, we successfully develop a deep learning algorithm to segment the vessels within the region of interest for breast reconstruction. Ultimately, this information will be used to determine the optimal reconstructive method (choice of vessels, extent of the free flap/harvested tissue) to reduce intra- and postoperative complication rates. This approach has the ability to considerably shorten operating times and lower healthcare costs.
 
 ## Chi Phuong Huynh
-<!--<img width="200" alt="Photo" src="./2023/photos/Huynh.jpg"> <br>-->
+<img width="200" alt="Photo" src="./2023/photos/Huynh.jpg"> <br>
 Computer Science  <br>
 Franklin and Marshall College  <br>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=aSiSyynzXeE&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=6)  <br>-->
