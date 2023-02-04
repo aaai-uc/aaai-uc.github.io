@@ -6,7 +6,7 @@ Thirty-Seven AAAI Conference on Artificial Intelligence
 February 7 - February 14, 2023
 
 
-# AAAI-22 Undergraduate Consortium 
+# AAAI-23 Undergraduate Consortium 
 
 ## UC-23 Scholars
 
@@ -151,41 +151,16 @@ DR. CECILIA ARAGON is an award-winning author, airshow pilot, and the first Lati
 Her award-winning memoir, [Flying Free (2020)](https://ceciliaaragonauthor.com/flying-free/), shares her journey of breaking past her own fears to become a champion aerobatic pilot. It debuted on five bestseller lists and is a TODAY Show and Hip Latina Recommended Read. Her 2019 book, [Writers in the Secret Garden](https://ceciliaaragonauthor.com/writers-in-the-secret-garden-2/), takes a close look at the fascinating world of fanfiction to explore how young people express themselves. Her latest book, [Human-Centered Data Science (2022)](https://ceciliaaragonauthor.com/human-centered-data-science/), is an accessible guide to best practices for addressing bias and inequality in data science and artificial intelligence. Learn more at [CeciliaAragonAuthor.com.](http://CeciliaAragonAuthor.com)
 
 
-## Keynote Speaker: Patricia Ord&oacute;&ntilde;ez
-<img height="200" alt="Photo" src="https://ccom.uprrp.edu/~pordonez/images/PattiMadura.jpg">  
- 
-### Talk Title 
-Ci eS para mí
-
-### Abstract
-For many years, I could not see myself as a programmer or computer scientist or any kind of scientist for that matter. I have always been a teacher at heart, but in my mid thirties, technology started to pique my curiosity, in particular AI for medicine. I will share with you my circuitous journey to becoming the first Latina to graduate from the College of Engineering and Information Technology with Ph.D. at the University of Maryland Baltimore County starting at the age of 38 and the first tenured Latina at the University of Puerto Rico Río Piedras in the Department of Computer Science.
-
-### Bio 
-Dr. Patricia Ordóñez is an Associate Professor in the Computer Science faculty at the University of Puerto Rico Río Piedras and thereby fulfilling two lifelong and one unexpected midlife dreams -- living in a Spanish speaking country, having the opportunity to make a greater difference in the world, and becoming a professor. Her research interests are in applying machine learning, data mining, and visualization to multivariate time series analysis, specifically to large repositories of clinical data (now known as Biomedical Data Science). She was the first Latina to graduate with a PhD from the College of Engineering and Information Technology at the University of Maryland Baltimore County and the first female Associate Professor to earn tenure in the Computer Science Department at the University of Puerto Rico Río Piedras (UPRRP). She is a former National Science Foundation Graduate Research Fellow. She was co-Chair of the Diversity and Inclusion Council of the Association of Computing Machinery (ACM), and she is serving as General Chair at the 2022 Tapia Celebration of Diversity in Computing Conference. She is the recipient of the Great Minds in STEM 2021 HENAAC Award in Education. She is passionate about creating a more inclusive culture in computing and STEM and about bridging the digital and data divide in global healthcare and education.
 
 # Thanks
 
 Thank you to our speakers, faculty and industry panelists, and graduate student panelists!
 
 ## Faculty / Industry Panelists
-Mark Díaz, Google  
-Judy Goldsmith, University of Kentucky  
-Odest Chadwicke Jenkins, University of Michigan  
-Elias Khalil, University of Toronto  
-Sanmi Koyejo, University of Illinois at Urbana-Champaign  
-Patricia Morreale, Kean University  
-Patricia Ordóñez, University of Puerto Rico Río Piedras  
-Jorge Ortiz, Rutgers University   
-Anita Raja, Hunter College, City University of New York  
-Pablo Rivas, Baylor University  
-Amanda Stent, Colby College  
+
 
 ## Graduate Student Panelists
-Akanksha Atrey, University of Massachusetts Amherst  
-Laura Biester, University of Michigan  
-De’Aira Bryant, Georgia Institute of Technology  
-Jiaoyang Li, University of Southern California   
-Thao Nguyen, Brown University  
+
 
 
 
