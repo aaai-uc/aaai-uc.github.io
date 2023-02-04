@@ -31,7 +31,7 @@ February 7 - February 14, 2023
    </td>
    <td>
     <li>Opening remarks</li>
-    <li><a href="https://aaai-uc.github.io/2023_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://amandastent.net/">Dr. Amanda Stent</a></li><li>
+    <li><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a></li><li>
     Faculty / Industry Panel Q&A</li>
    </td>
   </tr>
@@ -108,7 +108,7 @@ While extraordinary advances in our ability to collect, analyze, and interpret v
 
 DR. CECILIA ARAGON is an award-winning author, airshow pilot, and the first Latina to earn the rank of Full Professor in the College of Engineering at the University of Washington in its 100-year history. She’s worked with Nobel Prize winners and has taught astronauts to fly. Her innovative research, and a stint at NASA designing software for Mars missions, led President Obama to call her “one of the top scientists and engineers in the country.” In addition to her love of math and science, she’s passionate about helping others face their own fears and challenges to achieve their goals.
 
-Her award-winning memoir, [Flying Free (2020)]{https://ceciliaaragonauthor.com/flying-free/}, shares her journey of breaking past her own fears to become a champion aerobatic pilot. It debuted on five bestseller lists and is a TODAY Show and Hip Latina Recommended Read. Her 2019 book, [Writers in the Secret Garden]{https://ceciliaaragonauthor.com/writers-in-the-secret-garden-2/}, takes a close look at the fascinating world of fanfiction to explore how young people express themselves. Her latest book, [Human-Centered Data Science (2022)]{https://ceciliaaragonauthor.com/human-centered-data-science/}, is an accessible guide to best practices for addressing bias and inequality in data science and artificial intelligence. Learn more at [CeciliaAragonAuthor.com.] (http://CeciliaAragonAuthor.com)
+Her award-winning memoir, [Flying Free (2020)](https://ceciliaaragonauthor.com/flying-free/), shares her journey of breaking past her own fears to become a champion aerobatic pilot. It debuted on five bestseller lists and is a TODAY Show and Hip Latina Recommended Read. Her 2019 book, [Writers in the Secret Garden](https://ceciliaaragonauthor.com/writers-in-the-secret-garden-2/), takes a close look at the fascinating world of fanfiction to explore how young people express themselves. Her latest book, [Human-Centered Data Science (2022)](https://ceciliaaragonauthor.com/human-centered-data-science/), is an accessible guide to best practices for addressing bias and inequality in data science and artificial intelligence. Learn more at [CeciliaAragonAuthor.com.] (http://CeciliaAragonAuthor.com)
 
 
 ## Keynote Speaker: Patricia Ord&oacute;&ntilde;ez
