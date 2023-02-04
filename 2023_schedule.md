@@ -156,12 +156,12 @@ Her award-winning memoir, [Flying Free (2020)](https://ceciliaaragonauthor.com/f
 
 # Thanks
 
-Thank you to our speakers, faculty and industry panelists, and graduate student panelists!
+Thank you to our speakers, faculty and industry panelists!
 
-## Faculty / Industry Panelists
+<!--- ## Faculty / Industry Panelists
 
 
-## Graduate Student Panelists
+## Graduate Student Panelists -->
 
 
 
