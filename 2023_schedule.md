@@ -37,14 +37,14 @@ February 7 - February 14, 2023
    <td width="140">08:15 - 9:25
    </td>
    <td>
-    <li><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Holly-Yanco">TBD</a> by <a href="https://www.cs.uml.edu/~holly/">Dr. Holly Yanco</a></li>
+    <a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Holly-Yanco">TBD</a> by <a href="https://www.cs.uml.edu/~holly/">Dr. Holly Yanco</a>
    </td>
   </tr>
    <tr>
    <td width="140">09:30 - 10:30
    </td>
    <td>
-    <li>How to apply to graduate school and fund your graduate education</li>
+    How to apply to graduate school and fund your graduate education
    </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ February 7 - February 14, 2023
   <tr>
    <td>11:00 - 11:45
    </td>
-   <td><li>How to write a winning personal statement</li>
+   <td>How to write a winning personal statement
    </td>
   </tr>
   <tr>
@@ -69,37 +69,43 @@ February 7 - February 14, 2023
    <td>13:00 - 14:00
    </td>
    <td>
-    <li>Faculty and graduate student panel & speed-mentoring</li>
+    Faculty and graduate student panel & speed-mentoring
    </td>
   </tr>
   <tr>
-   <td>14:00 - 14:15
+   <td>14:00 - 14:45
    </td>
-   <td><li><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a></li>
-   </td>
-  </tr>
-  <tr>
-   <td>14:15 - 15:00
-   </td>
-   <td>Grad Student Panel: What is grad school REALLY like? (undergraduate audience only)
+   <td>
+    How to make a good research pitch and write an excellent research statement when you are not sure of what you wanna do.
+   
    </td>
   </tr>
   <tr>
-   <td>15:00 - 16:00
+   <td>14:45 - 15:15
    </td>
-   <td>UC Poster Practice Exercise (<strong>UC cohort only</strong>)
-   </td>
-  </tr>
-  <tr>
-   <td>16:00 - 16:45
-   </td>
-   <td>UC Poster Session (<strong>by invitation only</strong>)
+   <td>Coffe Break
    </td>
   </tr>
   <tr>
-   <td>16:50 - 17:00
+   <td>15:15 - 16:00
    </td>
-   <td>Closing remarks
+   <td>
+    <a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a>
+   </td>
+  </tr>
+  <tr>
+   <td>16:00 - 17:00
+   </td>
+   <td> 
+    Student Poster Session
+   </td>
+  </tr>
+  <tr>
+   <td>18:00 
+   </td>
+   <td>
+    Student Reception<\br>
+    Closing remarks
    </td>
   </tr>
   </tbody>
