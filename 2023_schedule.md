@@ -31,7 +31,7 @@ February 7 - February 14, 2023
    </td>
    <td>
     <li>Opening remarks</li>
-    <li><a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://amandastent.net/">Dr. Amanda Stent</a></li><li>
+    <li><a href="https://aaai-uc.github.io/2023_schedule.html#keynote-speaker-amanda-stent">Talk: What Values Matter to AI Researchers?</a> by <a href="https://amandastent.net/">Dr. Amanda Stent</a></li><li>
     Faculty / Industry Panel Q&A</li>
    </td>
   </tr>
@@ -96,7 +96,7 @@ February 7 - February 14, 2023
 
 ## Keynote Speaker: Dr. Cecilia Aragon
 <img height="200" alt="Photo" 
-src="./2023/photos/AragonP.jpg">
+src="./2023/photos/Aragon.jpg">
 
 ### Talk Title  
 What is Human-Centered AI and Why Does It Matter?
