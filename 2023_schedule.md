@@ -37,7 +37,7 @@ February 7 - February 14, 2023
    <td width="140">08:15 - 9:25
    </td>
    <td>
-    <a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Holly-Yanco">TBD</a> by <a href="https://www.cs.uml.edu/~holly/">Dr. Holly Yanco</a>
+    <b>Keynote:</b><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Holly-Yanco">TBD</a> by <a href="https://www.cs.uml.edu/~holly/">Dr. Holly Yanco</a>
    </td>
   </tr>
    <tr>
@@ -90,7 +90,7 @@ February 7 - February 14, 2023
    <td>15:15 - 16:00
    </td>
    <td>
-    <a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a>
+    <b>Keynote:</b><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a>
    </td>
   </tr>
   <tr>
