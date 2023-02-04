@@ -76,7 +76,7 @@ February 7 - February 14, 2023
    <td>14:00 - 14:45
    </td>
    <td>
-    How to make a good research pitch and write an excellent research statement when you are not sure of what you wanna do.
+    How to make a good research pitch and write an excellent research statement when you are not sure of what you wanna do
    
    </td>
   </tr>
