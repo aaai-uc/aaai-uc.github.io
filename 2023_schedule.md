@@ -104,7 +104,7 @@ February 7 - February 14, 2023
    <td>18:00 
    </td>
    <td>
-    Student Reception<\br>
+    Student Reception<br\>
     Closing remarks
    </td>
   </tr>
