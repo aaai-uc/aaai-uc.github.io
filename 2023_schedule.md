@@ -27,43 +27,55 @@ February 7 - February 14, 2023
 </thead>
  <tbody>
   <tr>
-   <td width="140">07:30 - 09:00
+   <td width="140">08:00 - 08:15
    </td>
    <td>
     <li>Opening remarks</li>
-    <li><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a></li><li>
-    Faculty / Industry Panel Q&A</li>
    </td>
   </tr>
   <tr>
-   <td>09:00 - 09:15
+   <td width="140">08:15 - 9:25
    </td>
-   <td>Break
+   <td>
+    <li><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Holly-Yanco">TBD</a> by <a href="https://www.cs.uml.edu/~holly/">Dr. Holly Yanco</a></li>
+   </td>
+  </tr>
+   <tr>
+   <td width="140">09:30 - 10:30
+   </td>
+   <td>
+    <li>How to apply to graduate school and fund your graduate education</li>
    </td>
   </tr>
   <tr>
-   <td>09:15 - 10:30
+   <td>10:30 - 11:00
    </td>
-   <td>UC Scholar Mixer (<strong>UC cohort only</strong>)
-   </td>
-  </tr>
-  <tr>
-   <td>10:30 - 12:30
-   </td>
-   <td>Lunch Break
+   <td>Coffe Break
    </td>
   </tr>
   <tr>
-   <td>12:30 - 14:00
+   <td>11:00 - 11:45
    </td>
-   <td><li><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a></li><li>
-    Faculty Panel Q&A</li>
+   <td><li>How to write a winning personal statement</li>
+   </td>
+  </tr>
+  <tr>
+   <td>11:45 - 13:00
+   </td>
+   <td>Beat the lunch rush
+   </td>
+  </tr>
+  <tr>
+   <td>13:00 - 14:00
+   </td>
+   <td>
+    <li>Faculty and graduate student panel & speed-mentoring</li>
    </td>
   </tr>
   <tr>
    <td>14:00 - 14:15
    </td>
-   <td>Break
+   <td><li><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a></li>
    </td>
   </tr>
   <tr>
