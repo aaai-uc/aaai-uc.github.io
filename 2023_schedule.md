@@ -96,7 +96,7 @@ February 7 - February 14, 2023
 
 ## Keynote Speaker: Dr. Cecilia Aragon
 <img height="200" alt="Photo" 
-src="./2023/photos/CeciliaP.jpg">
+src="./2023/photos/AragonP.jpg">
 
 ### Talk Title  
 What is Human-Centered AI and Why Does It Matter?
