@@ -16,18 +16,18 @@ February 7 - February 14, 2023
 ## February 7, 2023
 
 
-## Schedule at-a-glance
+## Schedule at-a-glance (Room 209BC)
 
 <table>
  <thead>
 <tr>
-<th width="120">Time (PST) </th>
+<th width="140">Time (PST) </th>
 <th>Event</th>
 </tr>
 </thead>
  <tbody>
   <tr>
-   <td width="120">07:30 - 09:00
+   <td width="140">07:30 - 09:00
    </td>
    <td>
     <li>Opening remarks</li>
@@ -56,7 +56,7 @@ February 7 - February 14, 2023
   <tr>
    <td>12:30 - 14:00
    </td>
-   <td><li><a href="https://aaai-uc.github.io/2022_schedule.html#keynote-speaker-patricia-ord&oacute;&ntilde;ez">Talk: Ci eS para mí</a> by <a href="https://ccom.uprrp.edu/~pordonez/">Dr. Patricia Ord&oacute;&ntilde;ez</a></li><li>
+   <td><li><a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Cecilia-Aragon">What is Human-Centered AI and Why Does It Matter?</a> by <a href="http://CeciliaAragonAuthor.com">Dr. Cecilia Aragón</a></li><li>
     Faculty Panel Q&A</li>
    </td>
   </tr>
