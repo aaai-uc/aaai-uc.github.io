@@ -94,6 +94,28 @@ February 7 - February 14, 2023
 </table>
 
 
+## Keynote Speaker: Dr. Holly Yanco
+<img height="200" alt="Photo" 
+src="./2023/photos/Holly.jpg">
+
+ 
+### Talk Title 
+TBD
+
+### Abstract
+TBD
+
+### Bio 
+Holly Yanco is a Professor in the Computer Science Department at UMass Lowell, joining the faculty in July 2001. She is also the director of the New England Robotics Validation and Experimentation (NERVE) Center.
+
+She founded the Human-Robot Interaction Lab which consists of students at all stages of their careers, from freshmen to doctoral candidates. Dr. Yanco's research interests include human-robot interaction, better visualization of sensor data, adjustable autonomy, urban search and rescue, assistive technology, and robotics education. Her lab is funded by the National Science Foundation, the Army Research Office, Microsoft and the National Institute of Standards and Technology.
+
+Dr. Yanco co-developed the Artbotics program, which combines art and computer science in a curriculum for high school and college students. She was the PI of the NSF-funded (DUE-0231363) development of Pyro, a Python-based robotics curriculum, which was selected as the Premier Courseware of 2005 by NEEDS. She has received teaching awards from UMass Lowell and MIT.
+
+She is the General Chair of the 2012 ACM/IEEE International Conference on Human-Robot Interaction. She has served on the Executive Council of the Association for the Advancement of Artificial Intelligence (2006-2009), as the Symposium Chair for AAAI (2002-2005) and as the Exhibition Co-Chair of the ACM/IEEE Conference on Human-Robot Interaction (2007-2009).
+
+More [information](https://www.cs.uml.edu/~holly/) 
+
 ## Keynote Speaker: Dr. Cecilia Aragon
 <img height="200" alt="Photo" 
 src="./2023/photos/Aragon.jpg">
