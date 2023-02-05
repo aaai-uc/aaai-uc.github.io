@@ -34,15 +34,15 @@ February 7 - February 14, 2023
    </td>
   </tr>
   <tr>
-   <td width="140">08:15 - 08:45
+   <td width="140">08:15 - 09:00
    </td>
    <td>
     <b>Keynote: </b>
-    <a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Holly-Yanco">TBD</a> by <a href="https://www.cs.uml.edu/~holly/">Dr. Holly Yanco</a>
+    <a href="https://aaai-uc.github.io/2023_schedule.html#Keynote-Speaker:-Dr.-Holly-Yanco">Designing Robots for Humans</a> by <a href="https://www.cs.uml.edu/~holly/">Dr. Holly Yanco</a>
    </td>
   </tr>
    <tr>
-   <td width="140">08:45 - 10:30
+   <td width="140">09:00 - 10:30
    </td>
    <td>
     How to apply to graduate school and fund your graduate education
@@ -125,19 +125,13 @@ src="./2023/photos/Holly.jpg">
 
  
 ### Talk Title 
-TBD
+Designing Robots for Humans
 
 ### Abstract
-TBD
+All robots interact with people in some way. Robots navigating in difficult and dynamic environments often need assistance from human operators or supervisors, either in the form of teleoperation or interventions when the robot's autonomy is not able to handle the current situation. Even in more controlled environments, such as office buildings and manufacturing floors, robots may need help from people. As robots become more autonomous and ubiquitous, people will become bystanders to the systems, with little knowledge of the robot’s intent. This talk will focus on the design of human-robot interaction for a wide variety of applications, ranging from assistive technology to telepresence to exoskeletons to humanoid robots. 
 
 ### Bio 
-Holly Yanco is a Professor in the Computer Science Department at UMass Lowell, joining the faculty in July 2001. She is also the director of the New England Robotics Validation and Experimentation (NERVE) Center.
-
-She founded the Human-Robot Interaction Lab which consists of students at all stages of their careers, from freshmen to doctoral candidates. Dr. Yanco's research interests include human-robot interaction, better visualization of sensor data, adjustable autonomy, urban search and rescue, assistive technology, and robotics education. Her lab is funded by the National Science Foundation, the Army Research Office, Microsoft and the National Institute of Standards and Technology.
-
-Dr. Yanco co-developed the Artbotics program, which combines art and computer science in a curriculum for high school and college students. She was the PI of the NSF-funded (DUE-0231363) development of Pyro, a Python-based robotics curriculum, which was selected as the Premier Courseware of 2005 by NEEDS. She has received teaching awards from UMass Lowell and MIT.
-
-She is the General Chair of the 2012 ACM/IEEE International Conference on Human-Robot Interaction. She has served on the Executive Council of the Association for the Advancement of Artificial Intelligence (2006-2009), as the Symposium Chair for AAAI (2002-2005) and as the Exhibition Co-Chair of the ACM/IEEE Conference on Human-Robot Interaction (2007-2009).
+Dr. Holly Yanco is a Distinguished University Professor, Head of the Richard A. Miner School of Computer & Information Sciences, and Director of the New England Robotics Validation and Experimentation (NERVE) Center at the University of Massachusetts Lowell. Her research interests include human-robot interaction, evaluation metrics and methods for robot systems, and the use of robots in K-12 education to broaden participation in computer science. Yanco's research has been funded by NSF, including a CAREER Award, the Advanced Robotics for Manufacturing (ARM) Institute, ARO, DARPA, DOE-EM, ONR, NASA, NIST, Google, Microsoft, and Verizon. She is a member of the Computing Research Association’s Computing Community Consortium, served as Co-Chair of the Steering Committee for the ACM/IEEE International Conference on Human-Robot Interaction from 2013-2016 and was a member of the Executive Council of the Association for the Advancement of Artificial Intelligence (AAAI) from 2006-2009 Yanco has a PhD and MS in Computer Science from the Massachusetts Institute of Technology and a BA in Computer Science and Philosophy from Wellesley College. She is a AAAI Fellow.
 
 More [information](https://www.cs.uml.edu/~holly/) 
 
