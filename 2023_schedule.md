@@ -27,14 +27,14 @@ February 7 - February 14, 2023
 </thead>
  <tbody>
   <tr>
-   <td width="140">08:00 - 08:15
+   <td width="140">08:00 - 08:45
    </td>
    <td>
     Opening remarks
    </td>
   </tr>
   <tr>
-   <td width="140">08:15 - 9:25
+   <td width="140">08:15 - 10:30
    </td>
    <td>
     <b>Keynote: </b>
@@ -42,7 +42,7 @@ February 7 - February 14, 2023
    </td>
   </tr>
    <tr>
-   <td width="140">09:30 - 10:30
+   <td width="140">10:30 - 11:00
    </td>
    <td>
     How to apply to graduate school and fund your graduate education
