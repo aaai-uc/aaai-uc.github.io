@@ -2,7 +2,7 @@
 [AAAI-23 UC @ the AAAI site ](https://aaai.org/Conferences/AAAI-23/undergraduate-consortium/)  
 Return to [the main AAAI Undergraduate Consortium page](https://aaai-uc.github.io/)
 
-[AAAI 2022 main site](https://aaai.org/Conferences/AAAI-23/)  
+[AAAI 2023 main site](https://aaai.org/Conferences/AAAI-23/)  
 Thirty-Seventh AAAI Conference on Artificial Intelligence  
 February 7 - February 14, 2023
 
