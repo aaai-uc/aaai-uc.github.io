@@ -27,7 +27,7 @@ February 7 - February 14, 2023
 </thead>
  <tbody>
   <tr>
-   <td width="140">08:00 - 08:15
+   <td width="130">08:00 - 08:15
    </td>
    <td>
     Opening remarks
