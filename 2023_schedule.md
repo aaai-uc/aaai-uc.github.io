@@ -27,14 +27,14 @@ February 7 - February 14, 2023
 </thead>
  <tbody>
   <tr>
-   <td width="140">08:00 - 08:45
+   <td width="140">08:00 - 08:15
    </td>
    <td>
     Opening remarks
    </td>
   </tr>
   <tr>
-   <td width="140">08:15 - 10:30
+   <td width="140">08:15 - 08:45
    </td>
    <td>
     <b>Keynote: </b>
@@ -42,7 +42,7 @@ February 7 - February 14, 2023
    </td>
   </tr>
    <tr>
-   <td width="140">10:30 - 11:00
+   <td width="140">08:45 - 10:30
    </td>
    <td>
     How to apply to graduate school and fund your graduate education
@@ -78,7 +78,6 @@ February 7 - February 14, 2023
    </td>
    <td>
     How to make a good research pitch and write an excellent research statement when you are not sure of what you wanna do
-   
    </td>
   </tr>
   <tr>
@@ -103,11 +102,17 @@ February 7 - February 14, 2023
    </td>
   </tr>
   <tr>
+   <td>17:00 - 17:15
+   </td>
+   <td> 
+    Closing Remarks
+   </td>
+  </tr>
+  <tr>
    <td>18:00 
    </td>
    <td>
-    Student Reception <br/>
-    Closing remarks
+    Student Reception 
    </td>
   </tr>
   </tbody>
