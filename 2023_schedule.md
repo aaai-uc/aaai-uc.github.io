@@ -121,7 +121,7 @@ February 7 - February 14, 2023
 
 ## Keynote Speaker: Dr. Holly Yanco
 <img height="200" alt="Photo" 
-src="./2023/photos/Holly.jpg">
+src="./2023/photos/Holly2.jpg">
 
  
 ### Talk Title 
