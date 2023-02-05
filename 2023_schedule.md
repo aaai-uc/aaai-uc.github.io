@@ -51,7 +51,7 @@ February 7 - February 14, 2023
   <tr>
    <td>10:30 - 11:00
    </td>
-   <td>Coffe Break
+   <td>Coffee Breaks
    </td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ February 7 - February 14, 2023
   <tr>
    <td>14:45 - 15:15
    </td>
-   <td>Coffe Break
+   <td>Coffee Breaks
    </td>
   </tr>
   <tr>
