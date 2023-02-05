@@ -21,7 +21,7 @@ February 7 - February 14, 2023
 <table>
  <thead>
 <tr>
-<th width="140">Time (PST) </th>
+<th width="140">Time (EST) </th>
 <th>Event</th>
 </tr>
 </thead>
