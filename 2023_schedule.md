@@ -27,14 +27,18 @@ February 7 - February 14, 2023
 </thead>
  <tbody>
   <tr>
-   <td width="130">08:00 - 08:15
+   <td width="130">08:00 - 08:45
    </td>
    <td>
-    Opening remarks
+    Logistics and Registration
+    <ul>
+     <li>Elaine Short, Tufts University</li>
+     <li>Patricia Ordóñez, University of Maryland Baltimore County</li>
+    </ul> 
    </td>
   </tr>
   <tr>
-   <td width="140">08:15 - 09:00
+   <td width="140">08:45 - 09:30
    </td>
    <td>
     <b>Keynote: </b>
@@ -42,7 +46,7 @@ February 7 - February 14, 2023
    </td>
   </tr>
    <tr>
-   <td width="140">09:00 - 10:30
+   <td width="140">09:30 - 10:30
    </td>
    <td>
     How to apply to graduate school and fund your graduate education
