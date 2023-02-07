@@ -13,12 +13,10 @@ February 7 - February 14, 2023
 [Meet our UC-23 scholars!](https://aaai-uc.github.io/2023_scholarsDRAFT.html)
 
 # Program of Events and Invited Talks
-## February 7, 2023
-
 
 ## Schedule at-a-glance 
 
-## February 7, 2023(Room 209BC)
+### February 7, 2023(Room 209BC)
 <table>
  <thead>
 <tr>
@@ -142,7 +140,7 @@ February 7 - February 14, 2023
   </tbody>
 </table>
 
- ## February 8, 2023 (Marriot Marquis Hotel Lobby)
+ ### February 8, 2023 (Marriot Marquis Hotel Lobby)
 
 <table>
  <thead>
@@ -200,13 +198,11 @@ Dr. Cecilia Aragón is an award-winning author, airshow pilot, and the first Lat
 Her award-winning memoir, [Flying Free (2020)](https://ceciliaaragonauthor.com/flying-free/), shares her journey of breaking past her own fears to become a champion aerobatic pilot. It debuted on five bestseller lists and is a TODAY Show and Hip Latina Recommended Read. Her 2019 book, [Writers in the Secret Garden](https://ceciliaaragonauthor.com/writers-in-the-secret-garden-2/), takes a close look at the fascinating world of fanfiction to explore how young people express themselves. Her latest book, [Human-Centered Data Science (2022)](https://ceciliaaragonauthor.com/human-centered-data-science/), is an accessible guide to best practices for addressing bias and inequality in data science and artificial intelligence. Learn more at [CeciliaAragonAuthor.com.](http://CeciliaAragonAuthor.com)
 
 
-
 # Thanks
 
 Thank you to our speakers, faculty panelists!
 
-<img height="600" alt="Photo" 
-src="./2023/photos/opening.jpg">
+<img height="600" alt="Photo" src="./2023/photos/opening.jpg">
 
 <!--- ## Faculty / Industry Panelists
 
