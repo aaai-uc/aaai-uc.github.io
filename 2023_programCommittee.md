@@ -21,8 +21,8 @@ The AAAI 2023 Undergraduate Consortium thanks all of the members of its program 
 - Tesca Fitzgerald, Yale University
 
 ## Mentors-Advisee Relations
-- Jorge Ortiz, Rutgers, The State University of New Jersey
-- Brianna Posadas, Virginia Tech University
+- Jorge Ortiz, Rutgers University 
+- Brianna Posadas, Virginia Tech 
 
 ## Engagement Chair
 - Jason Grant, Villanova University
@@ -50,6 +50,7 @@ The AAAI 2023 Undergraduate Consortium thanks all of the members of its program 
 - Joseph	Blass, Northwestern University
 - Carlotta	Berry, Rose-Hulman Institute of Technology
 - Jason	Grant, Villanova University
+- Eliana Valenzuela Andrade, UPR-Arecibo
 
 ## Website 
 - Eliana Valenzuela Andrade, UPR-Arecibo
