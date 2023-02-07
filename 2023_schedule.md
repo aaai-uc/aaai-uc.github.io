@@ -84,7 +84,7 @@ February 7 - February 14, 2023
    <td>
     Faculty panel & speed-mentoring <br/>
     <ul>
-     <li>Moderator: Brianna Posadas, Virginia Tech </li>
+     <li><b>Moderator: </b> Brianna Posadas, Virginia Tech </li>
      <li>Feras Batarseh, Virginia Tech  </li>
      <li>Brianna Posadas, Virginia Tech </li>
      <li>Patricia Ordóñez, University of Maryland Baltimore County</li>
