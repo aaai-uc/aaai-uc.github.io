@@ -143,14 +143,15 @@ February 7 - February 14, 2023
 </table>
 
  ## February 8, 2023 (Marriot Marquis Hotel Lobby)
-<!---
+
 <table>
  <thead>
 <tr>
 <th width="140">Time (EST) </th>
-<th>Event</th>
+<th width="800">Event</th>
 </tr>
 </thead>
+<!---
  <tbody>
   <tr>
    <td width="130">10:00 
