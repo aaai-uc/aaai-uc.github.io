@@ -16,8 +16,9 @@ February 7 - February 14, 2023
 ## February 7, 2023
 
 
-## Schedule at-a-glance (Room 209BC)
+## Schedule at-a-glance 
 
+## February 7, 2023(Room 209BC)
 <table>
  <thead>
 <tr>
@@ -141,6 +142,27 @@ February 7 - February 14, 2023
   </tbody>
 </table>
 
+## February 8, 2023 (Marriot Marquis Hotel Lobby)
+
+<table>
+ <thead>
+<tr>
+<th width="140">Time (EST) </th>
+<th>Event</th>
+</tr>
+</thead>
+ <tbody>
+  <tr>
+   <td width="130">10:00 
+   </td>
+   <td>
+     Morning Activity
+    <ul>
+     <li>Jason Grant, Villanova University</li>
+    </ul> 
+   </td>
+  </tr>
+  </table>
 
 ## Keynote Speaker: Dr. Holly Yanco
 <img height="200" alt="Photo" 
