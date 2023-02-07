@@ -70,7 +70,16 @@ February 7 - February 14, 2023
    <td>13:00 - 14:00
    </td>
    <td>
-    Faculty and graduate student panel & speed-mentoring
+    Faculty panel & speed-mentoring <br/>
+    <ul>
+     <li>Feras Batarseh, Virginia Tech University </li>
+     <li>Brianna Posadas, Virginia Tech University</li>
+     <li>Patricia Ordóñez, University of Maryland Baltimore County</li>
+     <li>Jorge Ortiz, Rutgers University</li>
+     <li>Elaine Short, Tufts University</li>
+     <li>Eliana Valenzuela, University of Puerto Rico at Arecibo</li>
+    </ul>
+    
    </td>
   </tr>
   <tr>
