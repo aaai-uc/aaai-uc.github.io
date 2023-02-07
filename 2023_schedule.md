@@ -84,8 +84,8 @@ February 7 - February 14, 2023
    <td>
     Faculty panel & speed-mentoring <br/>
     <ul>
-     <li>Feras Batarseh, Virginia Tech University </li>
-     <li>Brianna Posadas, Virginia Tech University</li>
+     <li>Feras Batarseh, Virginia Tech  </li>
+     <li>Brianna Posadas, Virginia Tech </li>
      <li>Patricia Ordóñez, University of Maryland Baltimore County</li>
      <li>Jorge Ortiz, Rutgers University</li>
      <li>Elaine Short, Tufts University</li>
