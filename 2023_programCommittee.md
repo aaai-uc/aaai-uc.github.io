@@ -14,7 +14,7 @@ February 7 - February 14, 2023
 The AAAI 2023 Undergraduate Consortium thanks all of the members of its program committee for their contributions to selecting our AAAI-23 UC Cohort. [(Meet our cohort!)](https://aaai-uc.github.io/2023_scholarsDRAFT.html)
 
 ## Undergraduate Consortium Co-Chairs  
-- Patricia Ordóñez, University of Maryland
+- Patricia Ordóñez, University of Maryland Baltimore County
 - Elaine Short, Tufts University
 
 ## Program Chair (Evaluation and Schedule)
@@ -22,7 +22,7 @@ The AAAI 2023 Undergraduate Consortium thanks all of the members of its program 
 
 ## Mentors-Advisee Relations
 - Jorge Ortiz, Rutgers, The State University of New Jersey
-- Brianna Posadas, Virginia Tech
+- Brianna Posadas, Virginia Tech University
 
 ## Engagement Chair
 - Jason Grant, Villanova University
