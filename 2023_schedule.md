@@ -62,13 +62,8 @@ February 7 - February 14, 2023
    <td>11:00 - 11:45
    </td>
    <td>How to write a winning personal statement
-    <ul>
-     <li>Feras Batarseh, Virginia Tech University </li>
-     <li>Brianna Posadas, Virginia Tech University</li>
-     <li>Patricia Ordóñez, University of Maryland Baltimore County</li>
-     <li>Jorge Ortiz, Rutgers University</li>
-     <li>Elaine Short, Tufts University</li>
-     <li>Eliana Valenzuela, University of Puerto Rico at Arecibo</li>
+    <ul>   
+     <li>Patricia Ordóñez, University of Maryland Baltimore County</li> 
     </ul>
    </td>
   </tr>
@@ -91,7 +86,6 @@ February 7 - February 14, 2023
      <li>Elaine Short, Tufts University</li>
      <li>Eliana Valenzuela, University of Puerto Rico at Arecibo</li>
     </ul>
-    
    </td>
   </tr>
   <tr>
@@ -100,12 +94,7 @@ February 7 - February 14, 2023
    <td>
     How to make a good research pitch and write an excellent research statement when you are not sure of what you wanna do
     <ul>
-     <li>Feras Batarseh, Virginia Tech University </li>
-     <li>Brianna Posadas, Virginia Tech University</li>
-     <li>Patricia Ordóñez, University of Maryland Baltimore County</li>
      <li>Jorge Ortiz, Rutgers University</li>
-     <li>Elaine Short, Tufts University</li>
-     <li>Eliana Valenzuela, University of Puerto Rico at Arecibo</li>
     </ul>
    </td>
   </tr>
@@ -135,13 +124,14 @@ February 7 - February 14, 2023
    </td>
    <td> 
     Closing Remarks
+     <li>Patricia Ordóñez, University of Maryland Baltimore County</li>
    </td>
   </tr>
   <tr>
    <td>18:00 
    </td>
    <td>
-    Student Reception 
+    AAAI Student Reception 
    </td>
   </tr>
   </tbody>
