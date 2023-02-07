@@ -142,7 +142,7 @@ February 7 - February 14, 2023
   </tbody>
 </table>
 
-## February 8, 2023 (Marriot Marquis Hotel Lobby)
+<!--- ## February 8, 2023 (Marriot Marquis Hotel Lobby)
 
 <table>
  <thead>
@@ -165,6 +165,7 @@ February 7 - February 14, 2023
   </tr>
   </table>
 
+-->
 ## Keynote Speaker: Dr. Holly Yanco
 <img height="200" alt="Photo" 
 src="./2023/photos/Holly2.jpg">
