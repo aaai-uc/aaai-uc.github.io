@@ -28,7 +28,7 @@ February 7 - February 14, 2023
 </thead>
  <tbody>
   <tr>
-   <td width="130">08:00 - 08:45
+   <td width="140">08:00 - 08:45
    </td>
    <td>
     Logistics and Registration
@@ -86,7 +86,6 @@ February 7 - February 14, 2023
     <ul>
      <li><b>Moderator: </b> Brianna Posadas, Virginia Tech </li>
      <li>Feras Batarseh, Virginia Tech  </li>
-     <li>Brianna Posadas, Virginia Tech </li>
      <li>Patricia Ordóñez, University of Maryland Baltimore County</li>
      <li>Jorge Ortiz, Rutgers University</li>
      <li>Elaine Short, Tufts University</li>
@@ -143,8 +142,8 @@ February 7 - February 14, 2023
   </tbody>
 </table>
 
-<!--- ## February 8, 2023 (Marriot Marquis Hotel Lobby)
-
+ ## February 8, 2023 (Marriot Marquis Hotel Lobby)
+<!---
 <table>
  <thead>
 <tr>
