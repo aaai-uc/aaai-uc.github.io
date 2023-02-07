@@ -180,6 +180,9 @@ Her award-winning memoir, [Flying Free (2020)](https://ceciliaaragonauthor.com/f
 
 Thank you to our speakers, faculty panelists!
 
+<img height="600" alt="Photo" 
+src="./2023/photos/opening.jpg">
+
 <!--- ## Faculty / Industry Panelists
 
 
