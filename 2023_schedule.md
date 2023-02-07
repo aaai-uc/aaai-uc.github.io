@@ -178,7 +178,7 @@ Her award-winning memoir, [Flying Free (2020)](https://ceciliaaragonauthor.com/f
 
 # Thanks
 
-Thank you to our speakers, faculty and industry panelists!
+Thank you to our speakers, faculty panelists!
 
 <!--- ## Faculty / Industry Panelists
 
