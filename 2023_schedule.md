@@ -157,13 +157,14 @@ February 7 - February 14, 2023
    <td width="130">10:00 
    </td>
    <td>
+     Networking+ at Washigton DC , <a href="https://docs.google.com/document/d/1zMYbAwXeT7opixEypoQ-a96BZqFCoTm8jY6MN-myWVo/edit">more info</a> 
      <ul>
      <li>Jason Grant, Villanova University</li>
     </ul>
-     Networking+, <a href="https://docs.google.com/document/d/1zMYbAwXeT7opixEypoQ-a96BZqFCoTm8jY6MN-myWVo/edit">More info</a> 
      
    </td>
   </tr>
+ </tbody>
   </table>
 
 ## Keynote Speaker: Dr. Holly Yanco
