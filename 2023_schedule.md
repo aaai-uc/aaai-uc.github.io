@@ -45,7 +45,7 @@ February 7 - February 14, 2023
    </td>
   </tr>
    <tr>
-   <td width="140">09:30 - 10:30
+   <td>09:30 - 10:30
    </td>
    <td>
     How to apply to graduate school and fund your graduate education
