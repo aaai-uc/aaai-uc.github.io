@@ -16,7 +16,7 @@ February 7 - February 14, 2023
 
 ## Schedule at-a-glance 
 
-### February 7, 2023(Room 209BC)
+<b> February 7, 2023 (Room 209BC)</b>
 <table>
  <thead>
 <tr>
@@ -140,7 +140,7 @@ February 7 - February 14, 2023
   </tbody>
 </table>
 
- ### February 8, 2023 (Marriot Marquis Hotel Lobby)
+<b>February 8, 2023 (Marriot Marquis Hotel Lobby)</b>
 
 <table>
  <thead>
