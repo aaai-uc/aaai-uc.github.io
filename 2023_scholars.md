@@ -84,49 +84,89 @@ Privacy-Preserving Machine Learning, Explainable AI, Recommendation Systems
 <img width="200" alt="Photo" src="./2023/photos/Khushi1.jpg"> <br>
 CMNS  <br>
 University of Maryland College Park <br>
+Year: 4th Year Undergraduate <br>
+
 [https://khushi-bhansali.weebly.com](https://khushi-bhansali.weebly.com) <br/> 
 <!--[3-min pitch video](https://www.youtube.com/watch?v=f-YSEJj2GpU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=5)  <br>-->
 
 Khushi Bhansali is pursuing her Bachelor of Science from the University of Maryland College Park. She is majoring in Computer Science with a concentration in Machine Learning and has received dean's list honorable mention every semester of her undergraduate studies. She is currently doing research for the Maryland Center for Blended Reality and has interned at Goldman Sachs, US FDA, and Johns Hopkins Applied Physics Lab. Outside of academics, she is the VP of Finance for a charity club named One for the World, a teaching instructor for the Maryland Center for Women In Computing, and a modeling editor for Chameleon, a university-led magazine for people of color. 
 
-### Abstract 
+### Poster  Presentation
+Privacy Preserving Algorithms for VR/AR Sensor Data Streams
+
+#### Abstract 
 Under the guidance of Dr. Amitabh Varshney, I have been capturing motion sensor data from the AR/VR headset. We discovered that heart and chest vibrations induce an involuntary movement of the head which can be used to infer heart rate. Body-signal side-channel adversaries could exploit this data to intelligently learn breathing patterns to detect arrhythmia or other heart conditions without consent. Deep learning algorithms can detect these privacy threats without relying on previous or common attack patterns. They recognize the presence of bad actors while preserving the privacy of the training dataset. Thus, I aspire to develop signal scrambling algorithms using privacy-preserving deep neural networks because of their high efficiency in data anonymization and ability to protect people from the new privacy risks that AR/VR systems pose.
+
+### Research Interests
+AI, AR/VR, HCI
+
+### Fun fact
+She likes to sing and she is part of a band. She also enjoys rowing in her free time.
 
 ## Anna Prince
 <img width="200" alt="Photo" src="./2023/photos/Anna1.jpeg"> <br>
 Linguistics and Government <br>
 Georgetown University  <br>
-<!--[https://www.linkedin.com/in/hannah-claus-042382199/](https://www.linkedin.com/in/hannah-claus-042382199/)  <br>
-[3-min pitch video](https://www.youtube.com/watch?v=eyRyz5ltcco&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=4)  <br>-->
+Year: 3rd Year Undergraduate <br>
 
 Anna is a junior at Georgetown University pursuing dual majors in linguistics and government. Her academic interests include propaganda, influence campaigns, and the intersection of technology and democracy. She hopes to pursue an advanced degree in computational social science in order to produce research that can assist government agencies, such as law enforcement and policy-makers, to make more informed and equitable decisions in the digital sphere. In her free time, she enjoys distance running and language-learning.
 
-### Abstract 
+### Poster  Presentation
+Using Linguistic Invention to Track Extremist Groups
+
+#### Abstract 
 While the ability to detect harmful artificial online activity has improved, identifying and classifying harmful human groups remains a difficult task. This research proposal builds on Ashokkumar and Pennebaker’s (2022) use of LIWC to detect social media group membership, further arguing that n-gram analysis and sentiment classification of in-group neologisms could be a useful way of proactively identifying groups at risk of violence. If successful, this project could be a useful tool for law enforcement, as it would provide a real-time view of potential threats with fewer privacy trade-offs.
+
+### Research Interests
+NLP, propaganda, influence campaigns
+
+### Fun fact
+ She is on her school's club running and triathlon teams.
 
 ## Supriti Vijay
 <img width="200" alt="Photo" src="./2023/photos/Supriti1.jpg"> <br>
 Department of Computer Science <br>
 Manipal Academy of Higher Education <br>
+Year: 4th Year Undergraduate <br>
 [https://supritivijay.github.io/](https://supritivijay.github.io/) <br/> 
 <!--[3-min pitch video](https://www.youtube.com/watch?v=qVO8cSIbMaY&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=9)  <br>-->
 
 Supriti is a senior at the Manipal Academy of Education, pursuing her bachelor's degree in Computer science and Engineering. Her research interests lie in Natural Language Processing, computational social science, Explainable AI, and Social Networks. She is passionate about working on NLP for social good, making models fairer, accountable, transparent, and ethical. She is a recipient of the Adobe India Women-In-Tech Scholarship and has also been awarded the Mitacs Globalink Research Internship. Beyond research, she is motivated to empower and mentor girls to build their careers in STEM. She also runs a non-profit, Felasa, aiming to create awareness among women about legal and safety laws around them and also helps connect lawyers to victims of gender-based crimes. She plans to pursue a graduate degree in Computer Science specializing in NLP.
 
-### Abstract 
+### Poster  Presentation
+Mitigating Gender Bias in large language models using a semi-supervised regularizing function
+
+#### Abstract  
 The presence of implicit bias in the text corpora is one of the most prominent issues while training any downstream NLP task. The exhibition of these gender biases emphasizes stereotypes prevalent in the real world onto models and causes drastic repercussions among those involved. Therefore, gender bias mitigation is an integral aspect of standard NLP tasks. Ideally, these models must be debiased before deployment. However, data augmentation is an expensive task for large corpora, while prior work on reconstructing word embeddings for debiasing may not always be conducive to performance reduction. Therefore, this work proposes training a semi-supervised regularizing loss function for debiasing large language models (LLMs). Integrating a regularizing loss function in the training phase, a method yet to be widely explored, would help us examine its effects on mitigating bias. This work also aims to create an easy-to-use library for debiasing to allow streamlined integration into most high-performance LLMs, contributing towards making models more fair and equitable.
+
+### Research Interests
+Computational Social Science, Fairness, NLP for Social Good, Explainable AI 
+
+### Fun fact
+ A dramatics and theatre enthusiast
 
 ## Pratinav Seth
 <img width="200" alt="Photo" src="./2023/photos/Pratinav1.jpg"> <br>
 Dept. of Data Science & Computer Applications, Manipal Institute of Technology <br>
 Manipal Academy of Higher Education <br>
+Year: 3rd Year Undergraduate <br>
 [https://ptnv-s.github.io/](https://ptnv-s.github.io/) <br/> 
-<!--[3-min pitch video](https://www.youtube.com/watch?v=XkU9ZXvMJtU&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=10)  <br>-->
+
 
 Pratinav Seth is a junior at Manipal Institute of Technology pursuing a Bachelor's in Technology with a major in Data Science. His research interests include Uncertainity Quantification, Medical Imagery, Trustworthy AI, and AI for Social Good. He is an Intern at KLIV Lab, IIT-Kharagpur working on Trustworthy Deep Learning based applications for Radiology based disease diagnostics. He is the Executive Head of the Research Society Manipal, an initiative to promote and facilitate the development of a research community among undergraduates. After obtaining his undergraduate degree, he intends to get a doctoral degree aimed at Model agnostic solutions for Quantifying Trustworthiness. 
 
-### Abstract 
+### Poster  Presentation
+Model Agnostic Uncertainty Aware Machine Learning Metrics 
+
+#### Abstract 
 With the advent of technology and increased availability of resources, many applications have deployed AI-based models in some form or shape. However, ensuring that these systems behave responsibly and are trustworthy is critical. The uncertainty estimation is essential to trust confident model predictions for screening automation and referring uncertain cases for manual intervention of a domain expert. Previous works involve building a completely different architecture which is typically costly when deployed. Here we aim to develop a model-agnostic solution to monitor the trustworthiness and confidence of the model predictions, which can be incorporated with currently deployed models and signal a failure in case of low confidence. The impact of this work will be immense and will change the outlook and increase the confidence of everyone towards AI. It can be impactful in areas such as  healthcare, where it would significantly aid in risk appraisal, lowering the possibility of potential misdiagnosis.
+
+### Research Interests
+Trustworthy AI, Uncertainty Quantification, Medical Imagery & AI for Social Good
+
+### Fun fact
+He is a avid F1 fan and a soccer fan ( a ManU fan).
+
 
 ## Nora Lewis
 <img width="200" alt="Photo" src="./2023/photos/Nora1.jpg"> <br>
