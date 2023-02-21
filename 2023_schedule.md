@@ -10,7 +10,7 @@ February 7 - February 14, 2023
 
 ## UC-23 Scholars
 
-[Meet our UC-23 scholars!](https://aaai-uc.github.io/2023_scholarsDRAFT.html)
+[Meet our UC-23 scholars!](https://aaai-uc.github.io/2023_scholars.html)
 
 # Program of Events and Invited Talks
 
