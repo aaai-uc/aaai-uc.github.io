@@ -17,14 +17,24 @@ February 7 - February 14, 2023
 <img width="200" alt="Photo" src="./2023/photos/Hou.jpeg"> <br>
 Electrical Engineering and Computer Science Departments <br>
 Johns Hopkins University <br>
+Year: 4th Year Undergraduate <br>
 [http://kaihua-hou.com](http://kaihua-hou.com)
 
 <!--[3-min pitch video](https://www.youtube.com/watch?v=b6_19zPghts&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=12)  <br>-->
 
 Kaihua (William) Hou is an undergraduate student studying Electrical Engineering and Computer Science at Johns Hopkins University. He works at the JHU Malone Center for Engineering in Healthcare under the mentorship of Dr. Mathias Unberath and Dr. Jithin Yohannan. He is also a visiting research assistant at the Massachusetts Institute of Technology, advised by Dr. John Guttag. His research interests lie at the intersection of machine learning, equitable healthcare, and clinical decision-making.
 
+### Poster  Presentation
+Predicting Visual Field Worsening with Longitudinal Optical Coherence Tomography Data Using a Gated Transformer Network   
 ### Abstract 
 Visual fields (VF) and optical coherence tomography (OCT) are two commonly used eye exams to diagnose glaucoma and track its worsening. However, two clinicians each examining a different test of the same patient may arrive at contradicting diagnoses. This is undesirable since neither test can be used as a sole objective standard for disease assessment, and the choice of test can heavily depend on non-clinical reasons (e.g. cost or availability) instead of the patient’s conditions. To help clinicians obtain the progressive trends of one eye exam given a time series of another, this project uses two gated Transformers (GTN): one Transformer learns changes in the same input feature across time, while the other one learns correlations between different input features at the same time stamp. This model significantly outperformed prior methods, and the feature importance of the GTN was investigated through Shapely analysis.
+
+#### Research Interests
+AI for Healthcare
+
+#### Fun fact
+He likes to play and watch soccer. He has also been playing the violin for 16 years. 
+
 
 ## Joseph Sankah
 <img width="200" alt="Photo" src="./2023/photos/Joseph.jpeg"> <br>
