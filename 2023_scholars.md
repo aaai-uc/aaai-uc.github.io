@@ -64,13 +64,21 @@ He likes to play soccer, sing and play the trombone—in his school’s marching
 <img width="200" alt="Photo" src="./2023/photos/Aman.jpg">  <br>
 Department of Information and Communication Technology <br>
 Manipal Institute of Technology  <br/>
+Year: 4th Year Undergraduate <br>
 [https://amanpriyanshu.github.io/](https://amanpriyanshu.github.io/)<br/>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=2UVLACiXnM0&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=14)  <br>-->
+
 
 I am Aman Priyanshu, a senior at Manipal Institute of Technology, currently pursuing my undergrad in Information Technology. My research interests include Privacy Preserving Machine Learning, Explainable AI, Fairness, and AI for Social Good. I have recently focused on areas such as Reinforcement Learning, Causal Inference, Bias Mitigation, and Low-Resource Computations. I have had the opportunity to gain practical experience through internships, including working as a Privacy Engineer Intern at Eder Labs R&D Private Limited, a MITACS Research Intern at Concordia University, and as an Undergraduate Research Assistant at Manipal Institute of Technology. I have also had the opportunity to have several publications in the field of machine intelligence and security and have won awards for my projects. My explorations in technology are also extended to participating in hackathons, where I've applied my research to developing applications aimed at social good. I intend to pursue a doctoral after my undergrad. 
 
-### Abstract 
+### Poster  Presentation
+SuperFedAvg - A superimposed network submasking approach towards Fairness integration into Federated Learning
+
+#### Abstract  
 Deep Learning has seen expansive growth over the last decade. Especially within fields that entail learning sensitive information, like Healthcare, Legal-Proceedings, and even Social-Analytics. A lot of these domains have seen decentralization and private learning methods such as Federated Learning being adopted. However, ensuring Fairness within FL settings is difficult due to inequitable demographic representation. This work aims at incorporating disparate retention through superimposed supermasks to understand private attribute demographic association. It leverages subnetwork identification to detect attributes associated with demographic identities for bias mitigation. By employing continual-learning paradigms, we ensure performance retention alongside Fairness in a disproportionate representation setting.
+
+### Research Interests
+Privacy-Preserving Machine Learning, Explainable AI, Recommendation Systems
+
 
 ## Khushi Bhansali
 <img width="200" alt="Photo" src="./2023/photos/Khushi1.jpg"> <br>
