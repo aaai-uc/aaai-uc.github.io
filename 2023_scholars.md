@@ -25,14 +25,15 @@ Year: 4th Year Undergraduate <br>
 Kaihua (William) Hou is an undergraduate student studying Electrical Engineering and Computer Science at Johns Hopkins University. He works at the JHU Malone Center for Engineering in Healthcare under the mentorship of Dr. Mathias Unberath and Dr. Jithin Yohannan. He is also a visiting research assistant at the Massachusetts Institute of Technology, advised by Dr. John Guttag. His research interests lie at the intersection of machine learning, equitable healthcare, and clinical decision-making.
 
 ### Poster  Presentation
-Predicting Visual Field Worsening with Longitudinal Optical Coherence Tomography Data Using a Gated Transformer Network   
-### Abstract 
+Predicting Visual Field Worsening with Longitudinal Optical Coherence Tomography Data Using a Gated Transformer Network 
+
+#### Abstract 
 Visual fields (VF) and optical coherence tomography (OCT) are two commonly used eye exams to diagnose glaucoma and track its worsening. However, two clinicians each examining a different test of the same patient may arrive at contradicting diagnoses. This is undesirable since neither test can be used as a sole objective standard for disease assessment, and the choice of test can heavily depend on non-clinical reasons (e.g. cost or availability) instead of the patient’s conditions. To help clinicians obtain the progressive trends of one eye exam given a time series of another, this project uses two gated Transformers (GTN): one Transformer learns changes in the same input feature across time, while the other one learns correlations between different input features at the same time stamp. This model significantly outperformed prior methods, and the feature importance of the GTN was investigated through Shapely analysis.
 
-#### Research Interests
+### Research Interests
 AI for Healthcare
 
-#### Fun fact
+### Fun fact
 He likes to play and watch soccer. He has also been playing the violin for 16 years. 
 
 
@@ -41,11 +42,23 @@ He likes to play and watch soccer. He has also been playing the violin for 16 ye
 Department of Electrical Engineering and Computer Science <br>
 College of Engineering and Architecture  <br>
 Howard University  <br>
+Year: 2nd Year Undergraduate <br>
 
 Joseph Sankah is a sophomore undergraduate student majoring in computer science at Howard University. He is a software engineer and a tech enthusiast especially in the domain of Artificial Intelligence. He currently serves as an undergraduate researcher assistant in the Affective Biometrics Lab where he surveys and analyzes some select open-source Artificial Intelligence/machine learning biometric toolkits and tools used for face detection, recognition, and verification. To this end, he seeks to develop a vulnerability-and-testing protocol in a bid to investigate the robustness of these AI biometric models under the aegis of Dr. Saurav Aryal and Dr. Gloria Washington of the Affective Biometric Lab with support and funding from the Applied Laboratory Research for Intelligence and Security(ARLIS).
 
-### Abstract 
+### Poster  Presentation
+Image Sampling with varied noises and brightness for cyber-assessment of AI face biometrics models
+
+#### Abstract 
+ 
 While the quest to evaluate the robustness of open-source Artificial Intelligence/machine learning biometric tools and toolkits seems to be fledging, the effectiveness in measuring their efficiency and robustness is almost always based on the outcome when original face images are fed into the AI biometrics models to the neglect of images with noisy features and varied brightness. Arguably, feeding our open-source AI biometrics models—in the domain of face detection, recognition, and verification—with a large pool of face datasets diversified with noisy features and varied brightness would go a long way to helping the AI biometric community to thoroughly survey and analyze these models in hopes of designing a methodology for their cyber-assessment and auditing. In that regard, the AI biometrics community would be able to test the robustness of the AI biometrics models against their vulnerabilities or weaknesses by comparing the actual outcome with their expected result.
+
+### Research Interests
+AI, Computer vision, machine learning
+
+### Fun fact
+He likes to play soccer, sing and play the trombone—in his school’s marching band :)
+
 
 ## Aman Priyanshu
 <img width="200" alt="Photo" src="./2023/photos/Aman.jpg">  <br>
