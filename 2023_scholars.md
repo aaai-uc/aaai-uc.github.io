@@ -172,13 +172,23 @@ He is a avid F1 fan and a soccer fan ( a ManU fan).
 <img width="200" alt="Photo" src="./2023/photos/Nora1.jpg"> <br>
 School of Public Affairs and Department of Computer Science   <br>
 American University   <br>
+Year: 3rd Year Undergraduate <br>
 [https://www.linkedin.com/in/willa-potosnak-4679b119a/](https://www.linkedin.com/in/willa-potosnak-4679b119a/)  <br>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=drKqN1h3VVE&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=13)  <br>-->
 
 Nora Lewis is a junior at American University studying Data Science in Justice, Law, and Criminology and Computer Science. She is also in the combined BS/MS program for Data Science with a concentration in CS. At American, she works as a teaching assistant in the Computer Science department and as a research assistant at the Polarization and Extremism Research and Innovation Lab (PERIL). In her free time, she likes to read, listen to music (specifically Taylor Swift), and exploring DC! 
 
-### Abstract 
+### Poster  Presentation
+Sentiment Analysis on Social Media Posts to Identify Dogwhistles
+
+#### Abstract 
 Dogwhistle is a type of coded language that primes an in-group to respond in a certain way, while the general population ignores it. These coded words fly under the radar of most social media terms of services, even though many extremist groups use these as a call to arms, because the words themselves are not seen as harmful. Being able to recognize the use of dogwhistles in social media posts would help to limit the outreach of extremist groups and harmful rhetoric and help prevent possible indoctrination. Using NLP and the Anti-Defamation League’s Hate on Display database, we trained a ML model to pick up on these dogwhistles in social media posts. Dogwhistles work best when the general public doesn’t understand them- so bringing them into the spotlight could render them useless.
+
+### Research Interests
+extremism and AI
+
+### Fun fact
+She is a Computer Science TA!
 
 ## Teanna Barrett
 <img width="200" alt="Photo" src="./2023/photos/Teanna.jpg"> <br>
@@ -189,27 +199,53 @@ Howard University  <br>
 
 Teanna Barrett (she/her) is a senior Computer Science major and Philosophy minor from Howard University. Her research aims to interrogate the design, deployment, and evaluation of Machine Learning systems to understand contemporary anti-blackness and inform liberatory technology. She currently works with the Affective Biometrics Lab under the direction of Dr. Gloria Washington at Howard University and the Social Futures Lab under the direction of Dr. Amy Zhang at the University of Washington. 
 
-### Abstract 
+### Poster  Presentation
+Investigating Skin Tone Stratification in Recidivism Prediction Models
+
+#### Abstract 
+
 Proprietary Machine Learning (ML) technology embedded in products such as PredPol and COMPAS has been found to target Black and Brown people more than White people. Thus, the material inequities within the United States policing system are replicated in ML models. However, there is another systemic disparity that is not well-researched in the ML community, skin tone stratification. This research study aims to investigate skin tone bias in criminal justice ML models and particular recidivism models. With manual skin tone annotations, recidivism scores disaggregated by skin tone categories can be analyzed for disparities. In addition, this project aims to further interrogate the relationship between ML and the prison industrial complex. 
+
+### Research Interests
+ML Fairness, Critical HCI, Social Computing
 
 ## Collin Coil
 <img width="200" alt="Photo" src="./2023/photos/Collin1.jpg"> <br>
 Department of Mathematics and Statistics  <br>
+Year: 3rd Year Undergraduate <br>
 American University  <br>
-<!--[3-min pitch video](https://www.youtube.com/watch?v=aSiSyynzXeE&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=6)  <br>-->
 
 Collin Coil is a junior studying pure mathematics and data science. He is engaged in applied statistics and data science research through the AU Center for Data Science, and he is interesting in pursuing a graduate program to focus on machine learning once he finishes his undergraduate degree. Outside of academics, Collin is a member of the American University Rowing Club and enjoys baking.
 
-### Abstract 
+### Poster  Presentation
+Energetic Molecule Development via Conditional Implicit Maximum Likelihood Estimation (CIMLE)
+
+#### Abstract 
 The need for high-quality training data currently serves as a bottleneck for the development and deployment of machine learning models. Currently, manually generated data is often too expensive, and machine labeled data suffers from bias. One potential technique to satiate the growing data requirements by using artificial intelligence to generate synthetic data. One promising generative technique is known as Implicit Maximum Likelihood Estimation. This approach has yet to be applied to large-scale synthetic data generation, but it has advantages over other models. These include no mode collapse, vanishing gradients, or training instability. 
+
+### Research Interests
+Generative AI, Statistical ML
+
+### Fun fact
+He is a member of my university’s varsity rowing team.
 
 ## Chi Phuong Huynh
 <img width="200" alt="Photo" src="./2023/photos/Huynh.jpg"> <br>
 Computer Science  <br>
 Franklin and Marshall College  <br>
+Year: 4th Year Undergraduate <br>
 <!--[3-min pitch video](https://www.youtube.com/watch?v=aSiSyynzXeE&list=PLIsth1r16Z2MHJ9jItF2MLGzQgAjH8QN8&index=6)  <br>-->
 
 Chi is an undergraduate student at Franklin & Marshall College, studying Computer Science and Applied Mathematics. Her research focuses on improving multi-modal machine learning algorithms and applying them to higher idea abstraction levels and data processing problems. She plans to continue work as a Ph.D. student, working on highly applicable AI and machine learning models. She is currently working with professor Brad McDanel (Franklin and Marshall College) on improving text-to-image transformers and professor Chen Sun (Brown University) on AI for computational creativity. 
 
-### Abstract 
-Transformers have become popular in the computer vision field due to their superior performance compared to CNNs, however, they are hindered by extensive training time. My project focuses on using input modifications method to improve performance of vision and multi-modal transformers and diffusers model. By patch removal or concatenating patches, we can improve the computational complexity of these machine learning models and help them be more robust at inference time. I investigated data sparsification and scheduling with vision transformers. As input images for transformers are split into patches, by cyclically scheduling the removal of the less important patches, we can reduce training time by 31% with minimal loss to accuracy. Recent papers have also showed that by stacking or masking patches, we can also reduce training time while not risking information loss. Applying similar ideas to text-to-image transformers and diffusion models can yield improved computational complexity and performance. 
+### Poster  Presentation
+Poster Presentation: Improving Vision and Language Machine Learning models via Input Processing and a Sampling Schedule
+
+#### Abstract 
+Transformers have become popular in the computer vision field due to their superior performance compared to CNNs, however, they are hindered by extensive training time. My project focuses on using input modifications method to improve performance of vision and multi-modal transformers and diffusers model. By patch removal or concatenating patches, we can improve the computational complexity of these machine learning models and help them be more robust at inference time. I investigated data sparsification and scheduling with vision transformers. As input images for transformers are split into patches, by cyclically scheduling the removal of the less important patches, we can reduce training time by 31% with minimal loss to accuracy. Recent papers have also showed that by stacking or masking patches, we can also reduce training time while not risking information loss. Applying similar ideas to text-to-image transformers and diffusion models can yield improved computational complexity and performance.
+
+### Research Interests
+Computer Vision, NLP
+
+### Fun fact
+She is an oil painter. She plants mint and tulips in her free time.
