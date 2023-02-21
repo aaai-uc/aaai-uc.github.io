@@ -3,7 +3,7 @@
 ## Updates
 - [AAAI-23 UC CfP is live at the AAAI site](https://aaai.org/Conferences/AAAI-23/undergraduate-consortium/)! 
 - [The UC 2023 Program is posted](./2023_schedule.md)  
-- [Meet our UC-23 scholars!](./2023_scholars.md)
+- [Meet our UC-23 scholars!](https://aaai-uc.github.io/2023_scholars.html)
 <!--- - [Meet our UC-22 scholars!](https://aaai-uc.github.io/2022_scholars.html)-->
 - Thank you to the [UC-23 Program Committee](./2023_programCommittee.md)
 <!--- - Thank you to the [UC-22 Program Committee](https://aaai-uc.github.io/2022_programCommittee.html)-->
