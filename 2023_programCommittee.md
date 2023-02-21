@@ -11,7 +11,7 @@ February 7 - February 14, 2023
 
 # Thank you to the AAAI-23 UC Program Committee!
 
-The AAAI 2023 Undergraduate Consortium thanks all of the members of its program committee for their contributions to selecting our AAAI-23 UC Cohort. [(Meet our cohort!)](https://aaai-uc.github.io/2023_scholarsDRAFT.html)
+The AAAI 2023 Undergraduate Consortium thanks all of the members of its program committee for their contributions to selecting our AAAI-23 UC Cohort. [(Meet our cohort!)](https://aaai-uc.github.io/2023_scholars.html)
 
 ## Undergraduate Consortium Co-Chairs  
 - Patricia Ordóñez, University of Maryland Baltimore County
